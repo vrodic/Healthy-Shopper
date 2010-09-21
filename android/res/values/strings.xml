@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ This file is distributed under GPL v3 license 
+ http://www.gnu.org/licenses/gpl-3.0.html      
+
+ raven@acute-angle.net                         
+-->
+
+
+<resources>
+    
+    <string name="app_name">Healthy Shopper</string>
+
+<string name="doSearch">Search</string>
+<string name="searchHint">Type E number to search</string>
+<string name="permitted">Usually safe, no known side effects.</string>
+<string name="unpermitted">May cause adverse effects, not permitted in EU, additional tests may be ongoing. Avoid it.</string>
+<string name="dangerous">Proven to cause severe adverse effects, may be dangerouse to people with chronic deceases.</string>
+<string name="mostly_safe">Mostly safe, but can cause side effects in some people, check additional info.</string>
+<string name="extra">Additional information exists, click on additive to view details.</string>
+<string name="unknown">Unknown - no information on permissions.</string>
+<string name="menu_help">Help</string>
+<string name="HelpCaption">This application is a reference for food additives also known as <b>E numbers</b>. For each E number following information is displayed: proper name, purpose and health status.</string>
+<string name="HelpCaption2">Below is short summary for each possible status.</string>
+<string name="vegan">Leaf image shows whenever additive is suitable for vegetarians</string>
+<string name="child">Child image shows whenever additive is safe or dangerous for children</string>
+<string name="allerg">Hand image shows additive safety for allergics</string>
+<string name="color_hint">Color of image changes from green to red, depending on additive safety.</string>
+<string name="cap_permitted">Safe</string>
+<string name="cap_unpermitted">Avoid</string>
+<string name="cap_forbidden">Mostly safe</string>
+<string name="cap_dangerous">Dangerous</string>
+<string name="cap_unknown">Unknown</string>
+
+<string name="note">Please, always check additional information, if exist. Some additives may be generally safe and permitted, but cause some adverse effects for minority of people, however <b>you</b> can be in this minority!</string>
+
+<string name="vegan2">This additive is suitable for vegetarians</string>
+<string name="child2">This additive is safe for children</string>
+<string name="allerg2">This additive is safe for allergics</string>
+
+<string name="v1">This additive has animal sources.</string>
+<string name="v2">This additive can be made from either vegetable or animal sources, avoid if unsure.</string>
+
+<string name="c1">This addivite is suspected to cause ADHD.</string>
+<string name="c2">This addivite is not recommended for children.</string>
+
+<string name="a1">This addivite can provoke allergic reactions.</string>
+
+<string name="empty_db">Empty product database</string>
+<string name="add_enumber">Add enumber to product</string>
+<string name="allenumbers">All E Numbers</string>
+<string name="productname">Product Name</string>
+<string name="saveproduct">Save</string>
+<string name="delete">Delete</string>
+</resources>

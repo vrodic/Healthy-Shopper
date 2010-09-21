@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+ This file is distributed under GPL v3 license 
+ http://www.gnu.org/licenses/gpl-3.0.html      
+
+ raven@acute-angle.net                         
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:id="@+id/viewmain">
+	<TextView android:text="@+id/TextView01" android:id="@+id/textCode"
+		android:layout_width="fill_parent" android:textColor="#000000"
+		android:textStyle="bold" android:textSize="20sp"
+		android:layout_gravity="center" android:gravity="center"
+		android:layout_height="30sp"></TextView>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/textName"
+		android:text="Caption" android:textStyle="bold"></TextView>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/textPurpose"
+		android:text="Purpose" android:layout_marginTop="3sp"></TextView>
+	<LinearLayout android:id="@+id/layExtra"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_marginTop="6sp">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/linfo"></ImageView>
+
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/textExtra"
+			android:text="Extra" android:layout_marginTop="3sp"></TextView>
+	</LinearLayout>
+
+
+	<LinearLayout android:layout_height="wrap_content"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_gravity="center" android:id="@+id/layVegan"
+		android:layout_marginTop="6sp">
+		<LinearLayout android:id="@+id/LinearLayout02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<ImageView android:id="@+id/img_v" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:src="@drawable/vegan"></ImageView>
+		</LinearLayout>
+		<TextView android:id="@+id/tv_v" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/vegan2"></TextView>
+	</LinearLayout>
+	<LinearLayout android:layout_height="wrap_content"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_gravity="center" android:id="@+id/layChild"
+		android:layout_marginTop="6sp">
+		<LinearLayout android:id="@+id/LinearLayout02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<ImageView android:id="@+id/img_ch" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:src="@drawable/child"></ImageView>
+		</LinearLayout>
+		<TextView android:id="@+id/tv_ch" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/child2"></TextView>
+	</LinearLayout>
+	<LinearLayout android:layout_height="wrap_content"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_gravity="center" android:id="@+id/layAller"
+		android:layout_marginTop="6sp">
+		<LinearLayout android:id="@+id/LinearLayout02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<ImageView android:id="@+id/img_al" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:src="@drawable/allergic"></ImageView>
+		</LinearLayout>
+		<TextView android:id="@+id/tv_al" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/allerg2"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/ads_layout"
+		android:layout_height="fill_parent" android:orientation="vertical"
+		android:layout_width="fill_parent" android:gravity="bottom">
+	</LinearLayout>
+</LinearLayout>

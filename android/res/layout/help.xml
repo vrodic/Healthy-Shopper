@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+ This file is distributed under GPL v3 license 
+ http://www.gnu.org/licenses/gpl-3.0.html      
+
+ raven@acute-angle.net                         
+-->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content">
+<LinearLayout
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="vertical" android:paddingRight="4sp">
+	<TextView android:id="@+id/TextView01" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/HelpCaption"
+		android:textSize="15sp"></TextView>
+	<TextView android:id="@+id/TextView02" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/HelpCaption2"
+		android:textSize="15sp"></TextView>
+
+	<TextView android:id="@+id/TextView03" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text=" "></TextView>
+
+
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:id="@+id/TextView04" android:layout_height="wrap_content"
+			android:layout_width="20sp" android:text="  " android:background="#75D175"></TextView>
+		<TextView android:text="@string/permitted"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:id="@+id/permitted" android:layout_marginLeft="2px"></TextView>
+
+
+	</LinearLayout>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:id="@+id/TextView06" android:layout_height="wrap_content"
+			android:layout_width="20sp" android:background="#BFD175"></TextView>
+		<TextView android:text="@string/mostly_safe"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:id="@+id/forbidden" android:layout_marginLeft="2px"></TextView>
+
+	</LinearLayout>
+	
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:id="@+id/TextView05" android:layout_height="wrap_content"
+			android:layout_width="20sp" android:background="#FFFF3D"></TextView>
+		<TextView android:text="@string/unpermitted"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:id="@+id/unpermitted" android:layout_marginLeft="2px"></TextView>
+
+	</LinearLayout>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:id="@+id/TextView07" android:layout_height="wrap_content"
+			android:layout_width="20sp" android:background="#FF001A"></TextView>
+		<TextView android:text="@string/dangerous"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:id="@+id/dangerous" android:layout_marginLeft="2px"></TextView>
+
+	</LinearLayout>
+
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:id="@+id/TextView08" android:layout_height="wrap_content"
+			android:layout_width="20sp" android:background="#CCCCCC"></TextView>
+		<TextView android:id="@+id/TextView09" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/unknown" android:layout_marginLeft="2px"></TextView>
+
+	</LinearLayout>
+	<TextView android:id="@+id/TextView12" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text=""></TextView>
+	<LinearLayout android:id="@+id/LinearLayout01"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/v"></ImageView>
+		<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/vegan" android:layout_marginLeft="2px"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/LinearLayout02"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/ch"></ImageView>
+		<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/child" android:layout_marginLeft="2px"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/LinearLayout03"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView03"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/al"></ImageView>
+		<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/allerg" android:layout_marginLeft="2px"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/LinearLayout04"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView04"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/none"></ImageView>
+		<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/color_hint" android:layout_marginLeft="2px"></TextView>
+	</LinearLayout>	
+	<LinearLayout android:id="@+id/LinearLayout05"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView05"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/info"></ImageView>
+		<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/extra" android:layout_marginLeft="2px"></TextView>
+	</LinearLayout>
+
+	<TextView android:id="@+id/TextView11" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text=""></TextView>
+
+	<TextView android:id="@+id/TextView10" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="@string/note"></TextView>
+
+
+</LinearLayout>
+</ScrollView>

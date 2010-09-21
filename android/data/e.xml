@@ -1,0 +1,7642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e>
+ <purpose id="1">
+   <en>food colouring (yellow-orange)</en>
+   <ru>краситель (желто-оранжевый)</ru>
+ </purpose>
+ <purpose id="2">
+   <en>food colouring (yellow)</en>
+   <ru>краситель (желтый)</ru>
+ </purpose>
+ <purpose id="3">
+   <en>food colouring (lemon yellow)</en>
+   <ru>краситель (лимонный желтый)</ru>
+ </purpose>
+ <purpose id="4">
+   <en>food colouring (golden)</en>
+   <ru>краситель (красный)</ru>
+ </purpose>
+ <purpose id="5">
+   <en>food colouring (dull or greenish yellow)</en>
+   <ru>краситель (желто-зеленый)</ru>
+ </purpose>
+ <purpose id="6">
+   <en>food colouring (yellow)</en>
+   <ru>краситель (желтый)</ru>
+ </purpose>
+ <purpose id="7">
+   <en>food colouring (orange)</en>
+   <ru>краситель (оранжевый)</ru>
+ </purpose>
+ <purpose id="8">
+   <en>food colouring (crimson)</en>
+   <ru>краситель (красный)</ru>
+ </purpose>
+ <purpose id="9">
+   <en>food colouring (dark red)</en>
+   <ru>краситель (темно-красный)</ru>
+ </purpose>
+ <purpose id="10">
+   <en>food colouring (red to maroon)</en>
+   <ru>краситель (красный)</ru>
+ </purpose>
+ <purpose id="11">
+   <en>food colouring (red)</en>
+   <ru>краситель (красный)</ru>
+ </purpose>
+ <purpose id="12">
+   <en>food colouring (blue)</en>
+   <ru>краситель (синий)</ru>
+ </purpose>
+ <purpose id="13">
+   <en>food colouring (dark blue)</en>
+   <ru>краситель (темно-синий)</ru>
+ </purpose>
+ <purpose id="14">
+   <en>food colouring(indigo)</en>
+   <ru>краситель (индиго)</ru>
+ </purpose>
+ <purpose id="15">
+   <en>food colouring (reddish blue)</en>
+   <ru>краситель (синий)</ru>
+ </purpose>
+ <purpose id="16">
+   <en>food colouring (green)</en>
+   <ru>краситель (зеленый)</ru>
+ </purpose>
+ <purpose id="17">
+   <en>food colouring (sea green)</en>
+   <ru>краситель (зеленый)</ru>
+ </purpose>
+ <purpose id="18">
+   <en>food colouring</en>
+   <ru>краситель (коричневый)</ru>
+ </purpose>
+ <purpose id="19">
+   <en>food colouring</en>
+   <ru>краситель (черный)</ru>
+ </purpose>
+ <purpose id="20">
+   <en>food colouring</en>
+   <ru>краситель (желто-оранжевый)</ru>
+ </purpose>
+ <purpose id="21">
+   <en>food colouring</en>
+   <ru>краситель (желтый)</ru>
+ </purpose>
+ <purpose id="22">
+   <en>food colouring</en>
+   <ru>краситель (оранжевый)</ru>
+ </purpose>
+ <purpose id="23">
+   <en>food colouring</en>
+   <ru>краситель (красный)</ru>
+ </purpose>
+ <purpose id="24">
+   <en>food colouring</en>
+   <ru>краситель (красно-фиолетовый)</ru>
+ </purpose>
+ <purpose id="25">
+   <en>food colouring</en>
+   <ru>краситель (белый)</ru>
+ </purpose>
+ <purpose id="26">
+   <en>food colouring (pure white)</en>
+   <ru>краситель (белый)</ru>
+ </purpose>
+ <purpose id="27">
+   <en>food colouring</en>
+   <ru>краситель (черный, красный, желтый)</ru>
+ </purpose>
+ <purpose id="28">
+   <en>food colouring</en>
+   <ru>краситель (металлический)</ru>
+ </purpose>
+ <purpose id="29">
+   <en>food colouring</en>
+   <ru>краситель (желто-белый)</ru>
+ </purpose>
+ <purpose id="30">
+   <en>food colouring</en>
+   <ru>краситель (красный/синий)</ru>
+ </purpose>
+ <purpose id="31">
+   <en>preservative</en>
+   <ru>консервант</ru>
+ </purpose>
+ <purpose id="32">
+   <en>firming agent</en>
+   <ru>консервант</ru>
+ </purpose>
+ <purpose id="33">
+   <en>acidity regulator</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="34">
+   <en>acidity regulator</en>
+   <ru>консервант, регулятор кислотности</ru>
+ </purpose>
+ <purpose id="35">
+   <en>preservative, acidity regulator</en>
+   <ru>консервант, регулятор кислотности</ru>
+ </purpose>
+ <purpose id="36">
+   <en>antioxidant</en>
+   <ru>антиоксидант</ru>
+ </purpose>
+ <purpose id="37">
+   <en>emulsifier</en>
+   <ru>эмульгатор</ru>
+ </purpose>
+ <purpose id="38">
+   <en>acidity regulator</en>
+   <ru>регулятор кислотности, антиоксидант</ru>
+ </purpose>
+ <purpose id="39">
+   <en>acid, acidity regulator</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="40">
+   <en>acidity regulator, firming agent, sequestrant</en>
+   <ru>регулятор кислотности, консервант, усилитель экскреции</ru>
+ </purpose>
+ <purpose id="41">
+   <en>(acid)</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="42">
+   <en>acid</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="43">
+   <en>anti-caking agent, firming agent</en>
+   <ru>разрыхлитель, firming agent</ru>
+ </purpose>
+ <purpose id="44">
+   <en></en>
+   <ru></ru>
+ </purpose>
+ <purpose id="45">
+   <en>anti-caking agent</en>
+   <ru>разрыхлитель</ru>
+ </purpose>
+ <purpose id="46">
+   <en>colour retention agent</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="47">
+   <en>sequestrant</en>
+   <ru>консервант</ru>
+ </purpose>
+ <purpose id="48">
+   <en>stabiliser</en>
+   <ru>стабилизатор</ru>
+ </purpose>
+ <purpose id="49">
+   <en>emulsifier</en>
+   <ru>стабилизатор, эмульгатор</ru>
+ </purpose>
+ <purpose id="50">
+   <en>emulsifier</en>
+   <ru>эмульгатор, стабилизатор</ru>
+ </purpose>
+ <purpose id="51">
+   <en>humectant</en>
+   <ru>увлажнитель</ru>
+ </purpose>
+ <purpose id="52">
+   <en>sweetener, anti-caking agent</en>
+   <ru>подсластитель</ru>
+ </purpose>
+ <purpose id="53">
+   <en>sweetener</en>
+   <ru>подсластитель</ru>
+ </purpose>
+ <purpose id="54">
+   <en>gelling agent</en>
+   <ru>эмульгатор</ru>
+ </purpose>
+ <purpose id="55">
+   <en>gelling agent</en>
+   <ru>эмульгатор</ru>
+ </purpose>
+ <purpose id="56">
+   <en>anti-caking agent</en>
+   <ru>разрыхлитель</ru>
+ </purpose>
+ <purpose id="57">
+   <en>raising agent</en>
+   <ru>разрыхлитель</ru>
+ </purpose>
+ <purpose id="58">
+   <en>acidity regulator, anti-caking agent</en>
+   <ru>регулятор кислотности, разрыхлитель</ru>
+ </purpose>
+ <purpose id="59">
+   <en>seasoning</en>
+   <ru>эмульгатор</ru>
+ </purpose>
+ <purpose id="60">
+   <en>improving agent</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="61">
+   <en>improving agent</en>
+   <ru>регулятор кислотности</ru>
+ </purpose>
+ <purpose id="62">
+   <en>firming agent</en>
+   <ru>консервант, регулятор кислотности</ru>
+ </purpose>
+ <purpose id="63">
+   <en>anti-caking agent</en>
+   <ru>разрыхлитель, регулятор кислотности</ru>
+ </purpose>
+ <purpose id="64">
+   <en>anti-caking agent</en>
+   <ru>разрыхлитель, эмульгатор</ru>
+ </purpose>
+ <purpose id="65">
+   <en>food colouring</en>
+   <ru>краситель</ru>
+ </purpose>
+ <purpose id="66">
+   <en>flavour enhancer</en>
+   <ru>усилитель вкуса</ru>
+ </purpose>
+ <purpose id="67">
+   <en>flavour enhancer</en>
+   <ru>усилитель вкуса</ru>
+ </purpose>
+ <purpose id="68">
+   <en>antibiotic</en>
+   <ru>антибиотик</ru>
+ </purpose>
+ <purpose id="69">
+   <en>anti-caking agent</en>
+   <ru>пеногаситель, эмульгатор, добавка, препятствующая слёживанию и комкованию</ru>
+ </purpose>
+ <purpose id="70">
+   <en>glazing agent</en>
+   <ru>глазирователь, разделитель</ru>
+ </purpose>
+ <purpose id="71">
+   <en>glazing agent</en>
+   <ru>глазирователь</ru>
+ </purpose>
+ <purpose id="72">
+   <en>anti-foaming agent</en>
+   <ru>пеногаситель, глазирователь, разделитель, герметик</ru>
+ </purpose>
+ <purpose id="73">
+   <en>glazing agent</en>
+   <ru>глазирователь, разделитель, герметик</ru>
+ </purpose>
+ <purpose id="74">
+   <en>glazing agent</en>
+   <ru>глазирователь, разделитель, герметик</ru>
+ </purpose>
+ <purpose id="75">
+   <en>improving agent</en>
+   <ru>улучшители муки и хлеба</ru>
+ </purpose>
+ <purpose id="76">
+   <en>improving agent</en>
+   <ru>улучшитель</ru>
+ </purpose>
+ <purpose id="77">
+   <en>preservative, bleach, improving agent</en>
+   <ru>консервант, отбеливатель, улучшитель</ru>
+ </purpose>
+ <purpose id="78">
+   <en>bleach</en>
+   <ru>отбеливатель</ru>
+ </purpose>
+ <purpose id="79">
+   <en>bleach</en>
+   <ru>улучшители муки и хлеба</ru>
+ </purpose>
+ <purpose id="80">
+   <en>packaging gas</en>
+   <ru>упаковочный газ</ru>
+ </purpose>
+ <purpose id="81">
+   <en>packaging gas</en>
+   <ru>упаковочный газ, хладагент</ru>
+ </purpose>
+ <purpose id="82">
+   <en>propellant</en>
+   <ru>пропеллент</ru>
+ </purpose>
+ <purpose id="83">
+   <en>humectant</en>
+   <ru>влагоудерживающий агент</ru>
+ </purpose>
+ <purpose id="84">
+   <en>humectant</en>
+   <ru>подсластитель, влагоудерживающий агент</ru>
+ </purpose>
+ <purpose id="85">
+   <en>foaming agent</en>
+   <ru>пенообразователь</ru>
+ </purpose>
+ <purpose id="86">
+   <en>stabiliser, flavour enhancer</en>
+   <ru>улучшитель муки и хлеба</ru>
+ </purpose>
+ <purpose id="87">
+   <en>stabiliser, flavour enhancer</en>
+   <ru>стабилизатор, усилитель вкуса</ru>
+ </purpose>
+ <purpose id="88">
+   <en>flavour enhancer</en>
+   <ru>усилитель вкуса и аромата</ru>
+ </purpose>
+ <purpose id="89">
+   <en>stabiliser, thickening agent, humectant, carrier</en>
+   <ru>стабилизатор, загуститель, влагоудерживающий агент, текстуратор</ru>
+ </purpose>
+ <purpose id="90">
+   <en>stabiliser</en>
+   <ru>загуститель, стабилизатор, осветлитель, диспергирующий агент</ru>
+ </purpose>
+ <purpose id="91">
+   <en>humectant, glazing agent</en>
+   <ru>влагоудерживающий агент, глазирователь</ru>
+ </purpose>
+ <purpose id="92">
+   <en>glazing agent</en>
+   <ru>глазирователь, загуститель</ru>
+ </purpose>
+ <purpose id="93">
+   <en>thickening agent</en>
+   <ru>стабилизатор, загуститель, связующее</ru>
+ </purpose>
+ <purpose id="94">
+   <en>thickening agent</en>
+   <ru>эмульгатор, загуститель, связующее</ru>
+ </purpose>
+ <purpose id="95">
+   <en>thickening agent</en>
+   <ru>загуститель</ru>
+ </purpose>
+ <purpose id="96">
+   <en>thickening agent</en>
+   <ru>стабилизатор, загуститель</ru>
+ </purpose>
+ <purpose id="97">
+   <en>emulsifier</en>
+   <ru>стабилизатор, загуститель</ru>
+ </purpose>
+ <purpose id="98">
+   <en>thickening agent</en>
+   <ru>стабилизатор, загуститель</ru>
+ </purpose>
+ <purpose id="99">
+   <en>thickening agent</en>
+   <ru>стабилизатор, глазирователь</ru>
+ </purpose>
+ <purpose id="100">
+   <en>resolving agent</en>
+   <ru>разделяющий агент</ru>
+ </purpose>
+ <purpose id="101">
+   <en>flavour solvent</en>
+   <ru>усилитель вкуса</ru>
+ </purpose>
+ <purpose id="102">
+   <en>foam stabiliser</en>
+   <ru>пенообразователь</ru>
+ </purpose>
+ <purpose id="103">
+   <en>flavour solvent</en>
+   <ru>влагоудерживающий агент, наполнитель</ru>
+ </purpose>
+ <purpose id="104">
+   <en>humectant</en>
+   <ru>влагоудерживающий, смягчающий и диспергирующий агент</ru>
+ </purpose>
+ <purpose id="105">
+   <en></en>
+   <ru>пеногаситель</ru>
+ </purpose>
+ <purpose id="106">
+   <en>thickening agent</en>
+   <ru>загуститель</ru>
+ </purpose>
+  <enumber id="100">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="1"/>
+   <name>
+     <en>Curcumin, turmeric</en>
+     <ru>Куркумин, Турмерик</ru>
+   </name>
+   <extra>
+     <en>Safe in recommended doses.</en>
+     <ru>Безопасен в рекомендованых дозах</ru>
+   </extra>
+  </enumber>
+  <enumber id="101">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="2"/>
+   <name>
+     <en>Riboflavin (Vitamin B2), formerly called lactoflavin (Vitamin G)</en>
+     <ru>Рибофлавин (Vitamin B2), ранее назывался лактофлавин (Витамин G)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="101a">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="2"/>
+   <name>
+     <en>Riboflavin-5'-Phosphate</en>
+     <ru>Натриевая соль рибофлавин-5-фосфата</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="102">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <allergic/>
+   <purpose code="3"/>
+   <name>
+     <en>Tartrazine (FD &amp; Yellow 5)</en>
+     <ru>Тартразин</ru>
+   </name>
+   <extra>
+     <en>Appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance and asthmatics</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте.</ru>
+   </extra>
+  </enumber>
+  <enumber id="103">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="4"/>
+   <name>
+     <en>Chrysoine resorcinol</en>
+     <ru>Алканет, алканин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="104">
+   <danger value="2"/>
+   <veg value="2"/>
+   <child value="1"/>
+   <allergic/>
+   <purpose code="5"/>
+   <name>
+     <en>Quinoline Yellow WS</en>
+     <ru>Жёлтый хинолиновый</ru>
+   </name>
+   <extra>
+     <en>Banned in Austria, Japan, Norway and US. Undergoing a voluntary phase-out in the UK.</en>
+     <ru>В процессе добровольного отказа от использования в Великобритании, Запрещено в Австрии, Японии, Норвегии и США.</ru>
+   </extra>
+  </enumber>
+  <enumber id="105">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="6"/>
+   <name>
+     <en>Fast Yellow AB</en>
+     <ru>Желтый прочный AB</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="106">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="6"/>
+   <name>
+     <en>Riboflavin-5-Sodium Phosphate</en>
+     <ru>Рибофлавин-5&apos;-фосфат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="107">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="6"/>
+   <name>
+     <en>Yellow 2G</en>
+     <ru>Желтый 2G</ru>
+   </name>
+   <extra>
+     <en>Only the UK in the European Union uses this dye and the EU is proposing a total ban. Its use is banned in Austria, Japan, Norway, Sweden, Switzerland  and the United States.</en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России. В Европе разрешено только в Великобритании</ru>
+   </extra>
+  </enumber>
+  <enumber id="110">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="1"/>
+   <name>
+     <en>Sunset Yellow FCF (Orange Yellow S, FD&amp;C Yellow 6)</en>
+     <ru>Желтый “Солнечный закат” (Апельсиновый желтый S)</ru>
+   </name>
+   <extra>
+     <en>Banned in Finland, Norway &amp; the UK (voluntarily). Products in the EU require warnings and is evaluating a phase-out.</en>
+     <ru>Запрещено в Финляндии, Норвегии и Великобритании(добровольно) В ЕС требуется предупреждение на продуктах.</ru>
+   </extra>
+  </enumber>
+  <enumber id="111">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="7"/>
+   <name>
+     <en>Orange GGN</en>
+     <ru>Оранжевый GGN</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Исключен из списков в ЕС, США и России из-за опасности для здоровья</ru>
+   </extra>
+  </enumber>
+  <enumber id="120">
+   <danger value="0"/>
+   <veg value="1"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="8"/>
+   <name>
+     <en>Cochineal, Carminic acid, Carmines, Natural Red 4</en>
+     <ru>Кошениль, Кармины</ru>
+   </name>
+   <extra>
+     <en>May cause allergic reactions</en>
+     <ru>Может вызывать аллергические реакции.</ru>
+   </extra>
+  </enumber>
+  <enumber id="121">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="9"/>
+   <name>
+     <en>Citrus Red 2</en>
+     <ru>Цитрусовый красный 2</ru>
+   </name>
+   <extra>
+     <en>Cancerogen</en>
+     <ru>Канцероген</ru>
+   </extra>
+  </enumber>
+  <enumber id="122">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <allergic/>
+   <purpose code="10"/>
+   <name>
+     <en>Carmoisine, Azorubine</en>
+     <ru>Азорубин, кармуазин</ru>
+   </name>
+   <extra>
+     <en>May cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Undergoing a voluntary phase-out in the UK, currently banned in Canada, Japan, Norway, USA &amp; Sweden. EU currently evaluating health risks.</en>
+     <ru>В процессе отказа в Великобритании, запрещен в Канаде, США, Японии, Швеции, Норвегии. ЕС оценивает риск для здоровья.</ru>
+   </extra>
+  </enumber>
+  <enumber id="123">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="9"/>
+   <name>
+     <en>Amaranth (FD&amp;C Red 2)</en>
+     <ru>Амарант</ru>
+   </name>
+   <extra>
+     <en>Appears to cause allergic and/or intolerance reactions,  particularly amongst those with an aspirin intolerance or asthmatics. Can provoke asthma</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте.</ru>
+   </extra>
+  </enumber>
+  <enumber id="124">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <allergic/>
+   <purpose code="11"/>
+   <name>
+     <en>Ponceau 4R (Cochineal Red A, Brilliant Scarlet 4R)</en>
+     <ru>Понсо 4R, пунцовый 4R</ru>
+   </name>
+   <extra>
+     <en>Appears to cause allergic and/or intolerance reactions particularly amongst those with an aspirin intolerance or asthmatics. Banned in Norway and US.</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте. В России разрешено.</ru>
+   </extra>
+  </enumber>
+  <enumber id="125">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="11"/>
+   <name>
+     <en>Ponceau SX, Scarlet GN</en>
+     <ru>Понсо SX, пунцовый SX</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="126">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="11"/>
+   <name>
+     <en>Ponceau 6R</en>
+     <ru>Ponceau 6R</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="127">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="11"/>
+   <name>
+     <en>Erythrosine (FD&amp;C Red 3)</en>
+     <ru>Эритрозин</ru>
+   </name>
+   <extra>
+     <en>Banned in Norway and the United States.</en>
+     <ru>Запрещено в Норвегии и США.</ru>
+   </extra>
+  </enumber>
+  <enumber id="128">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="11"/>
+   <name>
+     <en>Red 2G</en>
+     <ru>Красный 2G</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="129">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="11"/>
+   <name>
+     <en>Allura Red AC (FD&amp;C Red 40)</en>
+     <ru>Красный очаровательный АС</ru>
+   </name>
+   <extra>
+     <en>Banned in Denmark, Belgium, France, Switzerland &amp; Sweden. Undergoing a voluntary phase out in the UK. Permitted in the US and by the EU (whilst preserving individual country bans).</en>
+     <ru>Запрещен в Дании, Бельгии, Франции, Швейцарии и Швеции. В Великобритании — в процессе добровольного отказа. Разрешен в США и ЕС (за исключением указанных стран)</ru>
+   </extra>
+  </enumber>
+  <enumber id="130">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="12"/>
+   <name>
+     <en>Indanthrene blue RS</en>
+     <ru>Синий индантрен RS, синий солантрен FF, синий антраген, кубовый синий 4, манаскорубин, синий антрахинон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="131">
+   <danger value="3"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="13"/>
+   <name>
+     <en>Patent Blue V</en>
+     <ru>Синий патентованный V</ru>
+   </name>
+   <extra>
+     <en>Best avoided by people with allergy reactions as it can cause skin sensitivity, itching, nausea, low blood pressure, tremors and breathing problems.</en>
+     <ru>Рекомендуеся избегать людям с аллергией. Может вызывать крапивницу, астму, желудочно-кишечные расстройства.</ru>
+   </extra>
+  </enumber>
+  <enumber id="132">
+   <danger value="3"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="14"/>
+   <name>
+     <en>Indigo carmine, FD&amp;C Blue 2</en>
+     <ru>Индиготин, Индигокармин</ru>
+   </name>
+   <extra>
+     <en>Best avoided by people with allergy reactions as it can cause skin sensitivity, itching, nausea, low blood pressure, tremors and breathing problems..</en>
+     <ru>Рекомендуеся избегать людям с аллергией. Может вызывать крапивницу, астму, желудочно-кишечные расстройства.</ru>
+   </extra>
+  </enumber>
+  <enumber id="133">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="15"/>
+   <name>
+     <en>Brilliant Blue FCF (FD&amp;C Blue 1)</en>
+     <ru>Бриллиантовый голубой FCF, синий блестящий FCF</ru>
+   </name>
+   <extra>
+     <en>Banned in Austria, Belgium, Denmark, France, Germany, Greece, Italy, Norway, Spain, Sweden and Switzerland. </en>
+     <ru>Запрещен в Австрии, Бельгии, Дании, Франции, Германии, Греции, Италии, Норвегии, Испании, Швеции и Швейцарии.</ru>
+   </extra>
+  </enumber>
+  <enumber id="140">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="16"/>
+   <name>
+     <en>Chlorophylls and Chlorophyllins: (i) Chlorophylls (ii) Chlorophyllins</en>
+     <ru>Хлорофилл</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="141">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="16"/>
+   <name>
+     <en>Copper complexes of chlorophylls and chlorophyllins (i) Copper complexes of chlorophylls (ii) Copper complexes of chlorophyllins</en>
+     <ru>Хлорофилла комплекс медный, Медного комплекса хлорофиллина натриевая и калиевая соли</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="142">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="16"/>
+   <name>
+     <en>Green S</en>
+     <ru>Зелёный S</ru>
+   </name>
+   <extra>
+     <en>May cause hyperactivity, asthma, uticaria, and insomnia. Banned in Canada, Finland, Japan, Norway, Sweden and the USA.</en>
+     <ru>Может вызывать гиперактивность, астму, крапивницу и бессонницу. Запрещена в Канаде, Финляндии, Японии, Норвегии, Швеции и США. В России разрешено.</ru>
+   </extra>
+  </enumber>
+  <enumber id="143">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="17"/>
+   <name>
+     <en>Fast Green FCF (FD&amp;C Green 3)</en>
+     <ru>Зелёный стойкий FCF</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="150a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Plain caramel</en>
+     <ru>Сахарный колер I простой</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="150b">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Caustic sulfite caramel</en>
+     <ru>Сахарный колер II, «щелочно-сульфитная» технология</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="150c">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Ammonia caramel</en>
+     <ru>Сахарный колер III, «аммиачная» технология</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="150d">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Sulphite ammonia caramel</en>
+     <ru>Сахарный колер IV, «аммиачно-сульфитная» технология</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="151">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="19"/>
+   <name>
+     <en>Black PN, Brilliant Black BN</en>
+     <ru>Бриллиантовый чёрный PN, чёрный блестящий BN</ru>
+   </name>
+   <extra>
+     <en>May cause allergic or intolerance reactions, particularly amongst those with an aspirin intolerance. May worsen the symptoms of asthma.Banned in Canada, USA and Finland.</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте. Запрещено в Канаде, США и Финляндии.</ru>
+   </extra>
+  </enumber>
+  <enumber id="152">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="19"/>
+   <name>
+     <en>Black 7984</en>
+     <ru>Черный 7984</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="153">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="2"/>
+   <purpose code="19"/>
+   <name>
+     <en>Carbon black, Vegetable carbon</en>
+     <ru>Каменный, древесный уголь</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="154">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Brown FK, Kipper Brown</en>
+     <ru>Коричневый FK</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="155">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="18"/>
+   <name>
+     <en>Brown HT, Chocolate brown HT</en>
+     <ru>Шоколадный коричневый HT</ru>
+   </name>
+   <extra>
+     <en>It is banned in Austria, Belgium, Denmark, France, Germany, United States, Norway, Switzerland, and Sweden.</en>
+     <ru>Запрещена в Австрии, Бельгии, Дании, Франции, Германии, Норвегии, Швеции и Швейцарии.</ru>
+   </extra>
+  </enumber>
+  <enumber id="160a">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="20"/>
+   <name>
+     <en>Alpha-carotene, Beta-carotene, Gamma-carotene</en>
+     <ru>Альфа-, бета-, гамма-каротины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="160b">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <allergic/>
+   <purpose code="21"/>
+   <name>
+     <en>Annatto, bixin, norbixin</en>
+     <ru>Экстракт аннато, биксин</ru>
+   </name>
+   <extra>
+     <en>Has been linked with many cases of food-related allergies</en>
+     <ru>Может вызывать аллергические реакции.</ru>
+   </extra>
+  </enumber>
+  <enumber id="160c">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="22"/>
+   <name>
+     <en>Paprika oleoresin, Capsanthin, capsorubin</en>
+     <ru>Маслосмолы паприки (экстракт паприки)</ru>
+   </name>
+   <extra>
+     <en>Not permitted in Australia.</en>
+     <ru>Запрещено в Австралии.</ru>
+   </extra>
+  </enumber>
+  <enumber id="160d">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="23"/>
+   <name>
+     <en>Lycopene</en>
+     <ru>Ликопин</ru>
+   </name>
+   <extra>
+     <en>Not permitted in Australia.</en>
+     <ru>Запрещено в Австралии.</ru>
+   </extra>
+  </enumber>
+  <enumber id="160e">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="20"/>
+   <name>
+     <en>Beta-apo-8&apos;-carotenal (C 30)</en>
+     <ru>Бета-апо-8-каротиновый альдегид (С 30)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="160f">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="20"/>
+   <name>
+     <en>Ethyl ester of beta-apo-8&apos;-carotenic acid (C 30)</en>
+     <ru>Метиловый или этиловый эфиры бета-апо-8-каротиновой кислоты (С30)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="161a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Flavoxanthin</en>
+     <ru>Флавоксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161b">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Lutein</en>
+     <ru>Лютеин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="161c">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Cryptoxanthin</en>
+     <ru>Криптоксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161d">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Rubixanthin</en>
+     <ru>Рубиксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161e">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Violaxanthin</en>
+     <ru>Виолоксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161f">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Rhodoxanthin</en>
+     <ru>Родоксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161g">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="22"/>
+   <name>
+     <en>Canthaxanthin</en>
+     <ru>Кантаксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="161h">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="22"/>
+   <name>
+     <en>Zeaxanthin</en>
+     <ru>Зеаксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161i">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Citranaxanthin</en>
+     <ru>Цитранаксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="161j">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="21"/>
+   <name>
+     <en>Astaxanthin</en>
+     <ru>Астаксантин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="162">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="23"/>
+   <name>
+     <en>Beetroot Red, Betanin</en>
+     <ru>Свекольный красный (бетанин)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="163">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="24"/>
+   <name>
+     <en>Anthocyanins</en>
+     <ru>Антоцианы, Экстракт из кожицы винограда, Экстракт из чёрной смородины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="170">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="25"/>
+   <name>
+     <en>Calcium carbonate, Chalk</en>
+     <ru>Карбонаты кальция (мел)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="171">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="26"/>
+   <name>
+     <en>Titanium dioxide</en>
+     <ru>Диоксид титана</ru>
+   </name>
+   <extra>
+     <en>No adverse effects are known, however banned in Germany.</en>
+     <ru>Добавка в Германии запрещена, хотя известных побочных эффектов нет.</ru>
+   </extra>
+  </enumber>
+  <enumber id="172">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="27"/>
+   <name>
+     <en>Iron oxides and hydroxides</en>
+     <ru>Оксиды железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="173">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="28"/>
+   <name>
+     <en>Aluminium</en>
+     <ru>Алюминий</ru>
+   </name>
+   <extra>
+     <en>There is an increasing body of evidence to suggest that an accumulation of aluminium in the cells of the nervous system could be potentially toxic.</en>
+     <ru>Существуют доказательства, что накопление алюминия в нервных клетках может быть потенциально токсично.</ru>
+   </extra>
+  </enumber>
+  <enumber id="174">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="28"/>
+   <name>
+     <en>Silver</en>
+     <ru>Серебро</ru>
+   </name>
+   <extra>
+     <en>Long, regular consumption can lead to kidney damage, however it should not be a problem with food additive.</en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="175">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="28"/>
+   <name>
+     <en>Gold</en>
+     <ru>Золото</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="180">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <allergic/>
+   <purpose code="23"/>
+   <name>
+     <en>Pigment Rubine, Lithol Rubine BK</en>
+     <ru>Рубиновый литол ВК</ru>
+   </name>
+   <extra>
+     <en>May cause allergic or intolerance reactions, particularly amongst those with an aspirin intolerance and/or asthma.</en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="181">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="29"/>
+   <name>
+     <en>Tannin</en>
+     <ru>Таннин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="182">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="30"/>
+   <name>
+     <en>Orcein, Orchil</en>
+     <ru>Орсель, орсеин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="200">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sorbic acid</en>
+     <ru>Сорбиновая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="201">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium sorbate</en>
+     <ru>Cорбат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="202">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium sorbate</en>
+     <ru>Сорбат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="203">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Calcium sorbate</en>
+     <ru>Сорбат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="209">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Heptyl p-hydroxybenzoate</en>
+     <ru>Пара-гидроксибензойной кислоты гептиловый эфир</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="210">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <allergic/>
+   <purpose code="31"/>
+   <name>
+     <en>Benzoic acid</en>
+     <ru>Бензойная кислота</ru>
+   </name>
+   <extra>
+     <en>Best avoided by people with allergy reactions. Also may cause gastric irritation.</en>
+     <ru>Рекомендуеся избегать людям с аллергией. Может также вызывать раздражение ЖКТ.</ru>
+   </extra>
+  </enumber>
+  <enumber id="211">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium benzoate</en>
+     <ru>Бензоат натрия</ru>
+   </name>
+   <extra>
+     <en>People who suffer from asthma, aspirin sensitivity or the skin disease urticaria may have allergic reactions and/or find their symptoms become worse following consumption of benzoic acid, particularly in combination with tartrazine (E102).</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте. Особенно в комбинации с тартазином (Е102)</ru>
+   </extra>
+  </enumber>
+  <enumber id="212">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium benzoate</en>
+     <ru>Бензоат калия</ru>
+   </name>
+   <extra>
+     <en>People who suffer from asthma, aspirin sensitivity or the skin disease urticaria may have allergic reactions and/or find their symptoms become worse following consumption of benzoic acid, particularly in combination with tartrazine (E102).</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте. Особенно в комбинации с тартазином (Е102)</ru>
+   </extra>
+  </enumber>
+  <enumber id="213">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Calcium benzoate</en>
+     <ru>Бензоат кальция</ru>
+   </name>
+   <extra>
+     <en>People who suffer from asthma, aspirin sensitivity or the skin disease urticaria may have allergic reactions and/or find their symptoms become worse following consumption of benzoic acid, particularly in combination with tartrazine (E102).</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой или повышенной чувствительностью к ацетилсалициловой кислоте. Особенно в комбинации с тартазином (Е102)</ru>
+   </extra>
+  </enumber>
+  <enumber id="214">
+   <danger value="3"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Ethylparaben (ethyl para-hydroxybenzoate)</en>
+     <ru>Этилпарабен (пара-гидроксибензойной кислоты этиловый эфир)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="215">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium ethyl para-hydroxybenzoate</en>
+     <ru>Пара-гидроксибензойной кислоты этилового эфира натриевая соль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="216">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Propylparaben (propyl para-hydroxybenzoate)</en>
+     <ru>Пропилпарабен (пара-гидроксибензойной кислоты пропиловый эфир)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="217">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium propyl para-hydroxybenzoate</en>
+     <ru>Пара-гидроксибензойной кислоты пропилового эфира натриевая соль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="218">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="31"/>
+   <name>
+     <en>Methylparaben (methyl para-hydroxybenzoate)</en>
+     <ru>Метилпарабен (пара-гидроксибензойной кислоты метиловый эфир)</ru>
+   </name>
+   <extra>
+     <en>Can cause allergic reactions, particularly to the skin.</en>
+     <ru>Может вызывать аллергические реакции.</ru>
+   </extra>
+  </enumber>
+  <enumber id="219">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium methyl para-hydroxybenzoate</en>
+     <ru>Пара-гидроксибензойной кислоты метилового эфира натриевая соль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="220">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sulphur dioxide</en>
+     <ru>Диоксид серы</ru>
+   </name>
+   <extra>
+     <en>Known to provoke asthma attacks and is difficult to metabolise for those with impaired kidney function.</en>
+     <ru>Может вызывать приступы астмы. Так же не рекомендуется людям с проблемными почками.</ru>
+   </extra>
+  </enumber>
+  <enumber id="221">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium sulphite</en>
+     <ru>Сульфит натрия</ru>
+   </name>
+   <extra>
+     <en>Known to provoke asthma attacks</en>
+     <ru>Может вызывать приступы астмы.</ru>
+   </extra>
+  </enumber>
+  <enumber id="222">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium bisulphite (sodium hydrogen sulphite)</en>
+     <ru>Гидросульфит натрия</ru>
+   </name>
+   <extra>
+     <en>May cause an allergic reaction in some people, especially asthmatics.</en>
+     <ru>Может вызывать аллергические реакции, особенно у людей с астмой.</ru>
+   </extra>
+  </enumber>
+  <enumber id="223">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+  <allergic/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium metabisulphite</en>
+     <ru>Пиросульфит натрия (метабисульфит)</ru>
+   </name>
+   <extra>
+     <en>May cause allergic reactions, particularly skin irritation, gastric irritation and asthma.</en>
+     <ru>Может вызывать аллергические реакции, в частности раздражение кожи, ЖКТ и астму.</ru>
+   </extra>
+  </enumber>
+  <enumber id="224">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium metabisulphite</en>
+     <ru>Пиросульфит калия</ru>
+   </name>
+   <extra>
+     <en>Can cause asthma, cyanosis, faintness and even unconsciousness.</en>
+     <ru>Может вызывать астму, цианоз и даже потерю сознания.</ru>
+   </extra>
+  </enumber>
+  <enumber id="225">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium sulphite</en>
+     <ru>Сульфит калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="226">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Calcium sulphite</en>
+     <ru>Сульфит кальция</ru>
+   </name>
+   <extra>
+     <en>May cause asthma. A gastric irritant. Not permitted in Australia</en>
+     <ru>Может вызывать астму и раздражение ЖКТ.</ru>
+   </extra>
+  </enumber>
+  <enumber id="227">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+  <allergic/>
+   <purpose code="32"/>
+   <name>
+     <en>Calcium hydrogen sulphite (preservative)</en>
+     <ru>Гидросульфит кальция</ru>
+   </name>
+   <extra>
+     <en>May cause allergic reaction.</en>
+     <ru>Может быть причиной аллергических реакций.</ru>
+   </extra>
+  </enumber>
+  <enumber id="228">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium hydrogen sulphite</en>
+     <ru>Гидросульфит калия (бисульфит калия)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="230">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Biphenyl, diphenyl</en>
+     <ru>Бифенил, дифенил</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="231">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="31"/>
+   <name>
+     <en>Orthophenyl phenol</en>
+     <ru>Ортофенилфенол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="232">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium orthophenyl phenol</en>
+     <ru>Ортофенилфенола натриевая соль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="233">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Thiabendazole</en>
+     <ru>Тиабендазол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="234">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Nisin</en>
+     <ru>Низин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="235">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Natamycin, Pimaracin</en>
+     <ru>Натамицин, пимарицин</ru>
+   </name>
+   <extra>
+     <en>May cause nausea, vomiting, anorexia, diarrhoea and skin irritation. It is also sometimes used medically to treat candidiasis.</en>
+     <ru>Может вызывать головокружение, рвоту, диарею и раздражение кожи.</ru>
+   </extra>
+  </enumber>
+  <enumber id="236">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Formic acid</en>
+     <ru>Муравьиная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="237">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium formate</en>
+     <ru>Формиат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="238">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Calcium formate</en>
+     <ru>Формиат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="239">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Hexamine (hexamethylene tetramine)</en>
+     <ru>Гексаметилентетрамин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="240">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Formaldehyde</en>
+     <ru>Формальдегид</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="242">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Dimethyl dicarbonate</en>
+     <ru>Диметилдикарбонат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="249">
+   <danger value="2"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium nitrite</en>
+     <ru>Нитрит калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="250">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium nitrite</en>
+     <ru>Нитрит натрия</ru>
+   </name>
+   <extra>
+     <en>Potentially carcinogenic</en>
+     <ru>Потенциальный канцероген</ru>
+   </extra>
+  </enumber>
+  <enumber id="251">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium nitrate</en>
+     <ru>Нитрат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="252">
+   <danger value="1"/>
+   <veg value="2"/>
+   <child value="2"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium nitrate (Saltpetre)</en>
+     <ru>Нитрат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="260">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Acetic acid (preservative)</en>
+     <ru>Уксусная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="261">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="34"/>
+   <name>
+     <en>Potassium acetate (preservative)</en>
+     <ru>Ацетаты калия</ru>
+   </name>
+   <extra>
+     <en>Should be avoided by people with impaired kidney function as it is known to be a diuretic.</en>
+     <ru>Рекомендуется избегать людям с заболеваниями почек.</ru>
+   </extra>
+  </enumber>
+  <enumber id="262">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="35"/>
+   <name>
+     <en>Sodium acetates (i) Sodium acetate (ii) Sodium hydrogen acetate (sodium diacetate)</en>
+     <ru>Ацетаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="263">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="34"/>
+   <name>
+     <en>Calcium acetate (preservative)</en>
+     <ru>Ацетат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="264">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Ammonium acetate</en>
+     <ru>Ацетат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="265">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Dehydroacetic acid</en>
+     <ru>Дегидроацетовая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="266">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium dehydroacetate</en>
+     <ru>Дегидроацетат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="270">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Lactic acid (preservative) (acid)</en>
+     <ru>Молочная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="280">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Propionic acid</en>
+     <ru>Пропионовая кислота</ru>
+   </name>
+   <extra>
+     <en>May be linked to migraines.</en>
+     <ru>Может вызывать мигрени.</ru>
+   </extra>
+  </enumber>
+  <enumber id="281">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium propionate</en>
+     <ru>Пропионат натрия</ru>
+   </name>
+   <extra>
+     <en>May be linked to migraines.</en>
+     <ru>Может вызывать мигрени.</ru>
+   </extra>
+  </enumber>
+  <enumber id="282">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Calcium propionate</en>
+     <ru>Пропионат кальция</ru>
+   </name>
+   <extra>
+     <en>May be linked to migraines.</en>
+     <ru>Может вызывать мигрени.</ru>
+   </extra>
+  </enumber>
+  <enumber id="283">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Potassium propionate</en>
+     <ru>Пропионат калия</ru>
+   </name>
+   <extra>
+     <en>May be linked to migraines.</en>
+     <ru>Может вызывать мигрени.</ru>
+   </extra>
+  </enumber>
+  <enumber id="284">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Boric acid</en>
+     <ru>Борная кислота</ru>
+   </name>
+   <extra>
+     <en>Ingestion and ingalation is harmful.</en>
+     <ru>Не входит в список разрешенных в России.</ru>
+   </extra>
+  </enumber>
+  <enumber id="285">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Sodium tetraborate (borax)</en>
+     <ru>Тетраборат натрия (боракс)</ru>
+   </name>
+   <extra>
+     <en>Eye and skin irritant. Harmful by ingestion. May be harmful by inhalation. </en>
+     <ru>Не входит в список разрешенных в России.</ru>
+   </extra>
+  </enumber>
+  <enumber id="290">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Carbon dioxide</en>
+     <ru>Диоксид углерода</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="296">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="33"/>
+   <name>
+     <en>Malic acid (acid)</en>
+     <ru>Яблочная кислота (малоновая кислота)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="297">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Fumaric acid</en>
+     <ru>Фумаровая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="300">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Ascorbic acid (Vitamin C)</en>
+     <ru>Аскорбиновая кислота (Витамин C)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="301">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Sodium ascorbate</en>
+     <ru>Аскорбат натрия (Натриевая соль аскорбиновой кислоты)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="302">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Calcium ascorbate</en>
+     <ru>Аскорбат кальция</ru>
+   </name>
+   <extra>
+     <en>Some fear that it may increase the formation of calcium oxalate stones in the urine and should therefor be avoided by those with a predisposition to kidney stones.</en>
+     <ru>Возможно связан с формированием камней в почках.</ru>
+   </extra>
+  </enumber>
+  <enumber id="303">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Potassium ascorbate</en>
+     <ru>Аскорбат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="304">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Fatty acid esters of ascorbic acid (i) Ascorbyl palmitate</en>
+     <ru>Аскорбилпальмитат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="305">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>(ii) Ascorbyl stearate</en>
+     <ru>Аскорбилстеарат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="306">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Tocopherol-rich extract (natural)</en>
+     <ru>Концентрат смеси Токоферолов</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="307">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Alpha-tocopherol (synthetic)</en>
+     <ru>Альфа-токоферол синтетический</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="308">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Gamma-tocopherol (synthetic)</en>
+     <ru>Гамма-токоферол синтетический</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="309">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Delta-tocopherol (synthetic)</en>
+     <ru>Дельта-токоферол синтетический</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="310">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="36"/>
+   <name>
+     <en>Propyl gallate</en>
+     <ru>Пропилгаллат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="311">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="36"/>
+   <name>
+     <en>Octyl gallate</en>
+     <ru>Октилгаллат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="312">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="36"/>
+   <name>
+     <en>Dodecyl gallate</en>
+     <ru>Додецилгаллат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="313">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Ethyl gallate</en>
+     <ru>Этилгаллат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="314">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Guaiac resin</en>
+     <ru>Гваяковая смола</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="315">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Erythorbic acid</en>
+     <ru>Эриторбовая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="316">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Sodium erythorbate</en>
+     <ru>Эриторбат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="317">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Erythorbin acid</en>
+     <ru>Эриторбат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="318">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Sodium erythorbin</en>
+     <ru>Эритробат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="319">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Tert-Butylhydroquinone (TBHQ)</en>
+     <ru>Трет-бутилгидрохинон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="320">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="36"/>
+   <name>
+     <en>Butylated hydroxyanisole (BHA)</en>
+     <ru>Бутилгидроксианизол</ru>
+   </name>
+   <extra>
+     <en>Not permitted in infant foods. May provoke an allergic reaction in some people.</en>
+     <ru>Не разрешен для использования в детском питании, может вызывать аллергические реакции</ru>
+   </extra>
+  </enumber>
+  <enumber id="321">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <allergic/>
+   <purpose code="36"/>
+   <name>
+     <en>Butylated hydroxytoluene (BHT)</en>
+     <ru>Бутилгидрокситолуол</ru>
+   </name>
+   <extra>
+     <en>Not permitted in infant foods. May provoke an allergic reaction in some people.</en>
+     <ru>Не разрешен для использования в детском питании, может вызывать аллергические реакции</ru>
+   </extra>
+  </enumber>
+  <enumber id="322">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Lecithin</en>
+     <ru>Лецитины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="323">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Anoxomer</en>
+     <ru>Аноксомер</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="324">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Ethoxyquin</en>
+     <ru>Этоксихин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="325">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium lactate</en>
+     <ru>Лактат натрия</ru>
+   </name>
+   <extra>
+     <en>Young children with lactose intolerance may show adverse reactions.</en>
+     <ru>Может вызывать неблагоприятные реакции у детей с непереносимостью лактозы</ru>
+   </extra>
+  </enumber>
+  <enumber id="326">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="38"/>
+   <name>
+     <en>Potassium lactate (antioxidant)</en>
+     <ru>Лактат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="327">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Calcium lactate</en>
+     <ru>Лактат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="328">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium lactate</en>
+     <ru>Лактат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="329">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Magnesium lactate</en>
+     <ru>Лактат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="330">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="39"/>
+   <name>
+     <en>Citric acid</en>
+     <ru>Лимонная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="331">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium citrates (i) Monosodium citrate (ii) Disodium citrate (iii) Sodium citrate (trisodium citrate)</en>
+     <ru>Цитраты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="332">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium citrates (i) Monopotassium citrate (ii) Potassium citrate (tripotassium citrate)</en>
+     <ru>Цитраты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="333">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="40"/>
+   <name>
+     <en>Calcium citrates (i) Monocalcium citrate (ii) Dicalcium citrate (iii) Calcium citrate (tricalcium citrate)</en>
+     <ru>Цитраты кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="334">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="41"/>
+   <name>
+     <en>Tartaric acid (L(+)-)</en>
+     <ru>Винная кислота (L(+)-)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="335">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium tartrates (i) Monosodium tartrate (ii), Disodium tartrate</en>
+     <ru>Тартраты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="336">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium tartrates (i) Monopotassium tartrate (cream of tartar) (ii) Dipotassium tartrate</en>
+     <ru>Тартраты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="337">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium potassium tartrate</en>
+     <ru>Тартрат калия-натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="338">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="42"/>
+   <name>
+     <en>Orthophosphoric acid</en>
+     <ru>Ортофосфорная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="339">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Sodium phosphates (i) Monosodium phosphate (ii) Disodium phosphate (iii) Trisodium phosphate</en>
+     <ru>Ортофосфаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="340">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Potassium phosphates (i) Monopotassium phosphate (ii) Dipotassium phosphate (iii) Tripotassium phosphate</en>
+     <ru>Ортофосфаты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="341">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="43"/>
+   <name>
+     <en>Calcium phosphates (i) Monocalcium phosphate (ii) Dicalcium phosphate (iii) Tricalcium phosphate</en>
+     <ru>Ортофосфаты кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="342">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Ammonium phosphates: (i) Monoammonium orthophosphate (ii) Diammonium orthophosphate</en>
+     <ru>Ортофосфаты аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="343">
+   <danger value="4"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="45"/>
+   <name>
+     <en>Magnesium phosphates (i) monomagnesium phosphate (ii) Dimagnesium phosphate</en>
+     <ru>Ортофосфаты магния</ru>
+   </name>
+   <extra>
+     <en>This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives</en>
+     <ru>Исключение этой добавки из списка находится в процессе обсуждения</ru>
+   </extra>
+  </enumber>
+  <enumber id="344">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Lecitin citrate</en>
+     <ru>Цитрат лецитина</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="345">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Magnesium citrate</en>
+     <ru>Цитрат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="349">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium malate</en>
+     <ru>Малат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="350">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium malates (i) Sodium malate (ii) Sodium hydrogen malate</en>
+     <ru>Малаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="351">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium malate</en>
+     <ru>Малаты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="352">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Calcium malates (i) Calcium malate (ii) Calcium hydrogen malate</en>
+     <ru>Малаты кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="353">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Metatartaric acid</en>
+     <ru>Мета-винная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="354">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Calcium tartrate</en>
+     <ru>Тартрат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="355">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Adipic acid</en>
+     <ru>Адипиновая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="356">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium adipate</en>
+     <ru>Адипат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="357">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium adipate</en>
+     <ru>Адипат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="359">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium adipate</en>
+     <ru>Адипат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="363">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Succinic acid</en>
+     <ru>Янтарная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="365">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium fumarate</en>
+     <ru>Фумарат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="366">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium fumarate</en>
+     <ru>Фумарат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="367">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Calcium fumarate</en>
+     <ru>Фумарат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="368">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium fumarate</en>
+     <ru>Фумарат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="370">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>1,4-Heptonolactone</en>
+     <ru>Гептонолактон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="375">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="46"/>
+   <name>
+     <en>Niacin (nicotinic acid), Nicotinamide</en>
+     <ru>Никотиновая кислота (ниацин)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="380">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Triammonium citrate</en>
+     <ru>Цитраты аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="381">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium ferric citrate</en>
+     <ru>Цитраты аммония железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="383">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Calcium glycerylphosphate</en>
+     <ru>Глицерофосфат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="384">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Isopropyl citrate</en>
+     <ru>Изопропилцитратная смесь</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="385">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="47"/>
+   <name>
+     <en>Calcium disodium ethylene diamine tetraacetate, (Calcium disodium EDTA)</en>
+     <ru>Кальция динатриевая соль этилендиаминтетрауксусной кислоты (CaNa2 ЭДТА)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="386">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="47"/>
+   <name>
+     <en>Disodium ethylene diamine tetraacetate (Disodium EDTA)</en>
+     <ru>Динатриевая соль этилендиаминтетрауксусной кислоты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="387">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Oxystearin</en>
+     <ru>Оксистеарин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="388">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Thiodipropionic acid</en>
+     <ru>Тиопропионовая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="389">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Dilauryl thiodipropionate</en>
+     <ru>Дилаурил тиодипропионат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="390">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Distearyl thiodipropionate</en>
+     <ru>Дистеарил тиодипропионат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="391">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Phytic acid</en>
+     <ru>Фитиновая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="399">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Calcium lactobionate</en>
+     <ru>Лактобионат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="400">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Alginic acid</en>
+     <ru>Альгиновая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="401">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Sodium alginate</en>
+     <ru>Альгинат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="402">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Potassium alginate</en>
+     <ru>Альгинат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="403">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Ammonium alginate</en>
+     <ru>Альгинат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="404">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Calcium alginate</en>
+     <ru>Альгинат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="405">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Propane-1,2-diol alginate (Propylene glycol alginate)</en>
+     <ru>Альгинат пропиленгликоля</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="406">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Agar</en>
+     <ru>Агар</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="407">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Carrageenan</en>
+     <ru>Каррагинаны</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="407a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="49"/>
+   <name>
+     <en>Processed eucheuma seaweed</en>
+     <ru>Каррагинан из водорослей Euchema</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="408">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Bakers yeast glycan</en>
+     <ru>Гликан пекарских дрожжей</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Исключена из списка разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="409">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Arabinogalactan</en>
+     <ru>Арабиногалактан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="410">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="50"/>
+   <name>
+     <en>Locust bean gum</en>
+     <ru>Камедь рожкового дерева</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="411">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Oat gum</en>
+     <ru>Овсяная камедь</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="412">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Guar gum</en>
+     <ru>Гуаровая камедь</ru>
+   </name>
+   <extra>
+     <en>Known adverse effects are flatulence, diarrhoea, abdominal distension and intestinal obstruction.</en>
+     <ru>Известными неблагоприятнысм последствиями являются метеоризм, диарея, вздутие живота и кишечная непроходимость.</ru>
+   </extra>
+  </enumber>
+  <enumber id="413">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="37"/>
+   <name>
+     <en>Tragacanth</en>
+     <ru>Трагакантовая камедь</ru>
+   </name>
+   <extra>
+     <en>May cause allergic reactions. </en>
+     <ru>Может быть причиной аллергических реакций.</ru>
+   </extra>
+  </enumber>
+  <enumber id="414">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="37"/>
+   <name>
+     <en>Acacia gum (gum arabic)</en>
+     <ru>Гуммиарабик</ru>
+   </name>
+   <extra>
+     <en>May cause weak allergic reaction in some individuals</en>
+     <ru>Может быть причиной слабых аллергических реакций.</ru>
+   </extra>
+  </enumber>
+  <enumber id="415">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Xanthan gum</en>
+     <ru>Ксантановая камедь</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="416">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Karaya gum</en>
+     <ru>Камедь карайи</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="417">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Tara gum</en>
+     <ru>Камедь тары</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="418">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Gellan gum</en>
+     <ru>Геллановая камедь</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="419">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Gum ghatti</en>
+     <ru>Камедь гхатти</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="420">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="51"/>
+   <name>
+     <en>Sorbitol (i) Sorbitol (ii) Sorbitol syrup</en>
+     <ru>Сорбит и сорбитовый сироп</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="421">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="52"/>
+   <name>
+     <en>Mannitol</en>
+     <ru>Маннит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="422">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Glycerol</en>
+     <ru>Глицерин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="424">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Curdlan</en>
+     <ru>Курдлан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="425">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="37"/>
+   <name>
+     <en>Konjac (i) Konjac gum (ii) Konjac glucomannane</en>
+     <ru>Конжак (Конжаковая мука)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="426">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Soybean hemicellulose</en>
+     <ru>Гемицеллюлоза сои</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="429">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Peptones</en>
+     <ru>Пептоны</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Исключена из списка разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="430">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Polyoxyethene (8) stearate</en>
+     <ru>Полиоксиэтилен (8) стеарат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="431">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (40) stearate</en>
+     <ru>Полиоксиэтилен (40) стеарат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="432">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (20) sorbitan monolaurate (polysorbate 20)</en>
+     <ru>Полиоксиэтилен (20) сорбитан монолаурат, твин 20</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="433">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (20) sorbitan monooleate (polysorbate 80)</en>
+     <ru>Полиоксиэтилен (20) сорбитан моноолеат, твин 80</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="434">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (20) sorbitan monopalmitate (polysorbate 40)</en>
+     <ru>Полиоксиэтилен (20) сорбитан монопальмитат, твин 40</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="435">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (20) sorbitan monostearate (polysorbate 60)</en>
+     <ru>Полиоксиэтилен (20) сорбитан моностеарат, твин 60</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="436">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyoxyethene (20) sorbitan tristearate (polysorbate 65)</en>
+     <ru>Полиоксиэтилен (20) сорбитан тристеарат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="440">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Pectins (i) pectin (ii) amidated pectin</en>
+     <ru>Пектины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="441">
+   <danger value="0"/>
+   <veg value="1"/>
+   <child value="0"/>
+   <purpose code="54"/>
+   <name>
+     <en>Gelatine</en>
+     <ru>Желатин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>В России не входит в список разрешенных</ru>
+   </extra>
+  </enumber>
+  <enumber id="442">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Ammonium phosphatides</en>
+     <ru>Аммонийные соли фосфатидиловой кислоты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="443">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="55"/>
+   <name>
+     <en>Brominated vegetable oil</en>
+     <ru>Бромированное растительное масло</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>В России не входит в список разрешенных</ru>
+   </extra>
+  </enumber>
+  <enumber id="444">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sucrose acetate isobutyrate</en>
+     <ru>Сахарозы ацетат изобутират</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="445">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Glycerol esters of wood rosins</en>
+     <ru>Эфиры глицерина и смоляных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="446">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="55"/>
+   <name>
+     <en>Succistearin</en>
+     <ru>Сукцистеарин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="450">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Diphosphates (i) Disodium diphosphate (ii) Trisodium diphosphate (iii) Tetrasodium diphosphate (iv) Dipotassium diphosphate (v) Tetrapotassium diphosphate (vi) Dicalcium diphosphate (vii) Calcium dihydrogen diphosphate</en>
+     <ru>Пирофосфаты (дифосфаты)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="451">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Triphosphates (i) Sodium triphosphate (pentasodium triphosphate) (ii) Pentapotassium triphosphate</en>
+     <ru>Трифосфаты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="452">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyphosphates (i) Sodium polyphosphates (ii) Potassium polyphosphates (iii) Sodium calcium polyphosphate (iv) Calcium polyphosphates (v) Ammonium Polyphosphate</en>
+     <ru>Полифосфаты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="459">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Beta-cyclodextrine</en>
+     <ru>Бета-циклодекстрин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="460">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Cellulose (i) Microcrystalline cellulose (ii) Powdered cellulose</en>
+     <ru>Целлюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="461">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Methyl cellulose</en>
+     <ru>Метилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en>May cause asthma, intestinal blockage, itching, skin rash and swallowing difficulty.</en>
+     <ru>Может вызвать астму, кишечную блокаду, зуд, кожную сыпь и трудность глотания.</ru>
+   </extra>
+  </enumber>
+  <enumber id="462">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Ethyl cellulose</en>
+     <ru>Этилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="463">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Hydroxypropyl cellulose</en>
+     <ru>Гидроксипропилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="464">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="1"/>
+   <purpose code="37"/>
+   <name>
+     <en>Hydroxy propyl methyl cellulose, = hypromellose</en>
+     <ru>Гидроксипропилметилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en>May cause allergic reactions. </en>
+     <ru>Может быть причиной аллергических реакций.</ru>
+   </extra>
+  </enumber>
+  <enumber id="465">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Ethyl methyl cellulose</en>
+     <ru>Метилэтилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="466">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Carboxymethyl cellulose, Sodium carboxy methyl cellulose</en>
+     <ru>Натрий-карбоксиметилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="467">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="55"/>
+   <name>
+     <en>Ethyl hydroxyethyl cellulose</en>
+     <ru>Этилгидроксиэтилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="468">
+   <danger value="4"/>
+   <veg value="0"/>
+   <child value="2"/>
+   <purpose code="37"/>
+   <name>
+     <en>Crosslinked sodium carboxymethyl cellulose (Croscarmellose)</en>
+     <ru>Кроскарамеллоза</ru>
+   </name>
+   <extra>
+     <en>This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives</en>
+     <ru>Добавка может быть исключена из списка разрешенных.</ru>
+   </extra>
+  </enumber>
+  <enumber id="469">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Enzymically hydrolysed carboxymethylcellulose</en>
+     <ru>Карбоксиметилцеллюлоза ферментативно гидролизованная</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="470">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="56"/>
+   <name>
+     <en>Salts of fatty acids with base Al, Ca, Na, Mg, K and NH4</en>
+     <ru>Соли жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="470a">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Sodium, potassium and calcium salts of fatty acids (emulsifier)</en>
+     <ru>Соли жирных кислот натрия, калия и кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="470b">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Magnesium salts of fatty acids (emulsifier)</en>
+     <ru>Соли жирных кислот магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="471">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Mono- and diglycerides of fatty acids (glyceryl monostearate, glyceryl distearate)</en>
+     <ru>Моно- и диглицериды жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472a">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Acetic acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Эфиры глицерина, уксусной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472b">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Lactic acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Эфиры глицерина, молочной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472c">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Citric acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Эфиры глицерина, лимонной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472d">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Tartaric acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Эфиры моно- и диглицеридов винной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472e">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Эфиры глицерина, диацетилвинной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472f">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids</en>
+     <ru>Смешанные эфиры глицерина, винной, уксусной и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="472g">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Succinylated monoglycerides</en>
+     <ru>Эфиры моноглицеридов и янтарной кислоты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="473">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sucrose esters of fatty acids</en>
+     <ru>Эфиры сахарозы и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="474">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sucroglycerides</en>
+     <ru>Сахароглицериды</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="475">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyglycerol esters of fatty acids</en>
+     <ru>Эфиры полиглицеридов и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="476">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Polyglycerol polyricinoleate</en>
+     <ru>Эфиры полиглицерина и взаимоэтерифицированных рициноловых кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="477">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Propane-1, 2-diol esters of fatty acids, propylene glycol esters of fatty acids</en>
+     <ru>Эфиры пропиленгликоля и жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="478">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Lactylated fatty acid esters of glycerol and propane-1</en>
+     <ru>Эфиры лактилированных жирных кислот, глицерина и пропиленгликоля</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="479b">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids</en>
+     <ru>Термически окисленное соевое масло с моно- и диглицердами жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="480">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Dioctyl sodium sulphosuccinate</en>
+     <ru>Диоктилсульфосукцинат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="481">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sodium stearoyl-2-lactylate</en>
+     <ru>Лактилаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="482">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Calcium stearoyl-2-lactylate</en>
+     <ru>Лактилаты кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="483">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Stearyl tartrate</en>
+     <ru>Стеарилтартрат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="484">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Stearyl citrate</en>
+     <ru>Стеарилцитрат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="485">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sodium Stearoyl Fumarate</en>
+     <ru>Стеароилфумарат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="486">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Calcium Stearoyl Fumarate</en>
+     <ru>Стеароилфумарат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="487">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sodium laurylsulphate</en>
+     <ru>Лаурилсульфат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="488">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Ethoxylated Mono- and Di-Glycerides</en>
+     <ru>Этоксилированные моно- и ди-глицериды</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="489">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Methyl Glucoside - Coconut Oil Ester</en>
+     <ru>Эфир кокосового масла и метилгликозида</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="490">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="55"/>
+   <name>
+     <en>Propane-1,2-diol</en>
+     <ru>Пропиленгликоль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="491">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan monostearate</en>
+     <ru>Сорбитан моностеарат, СПЭН 60</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="492">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan tristearate</en>
+     <ru>Сорбитан тристеарат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="493">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan monolaurate</en>
+     <ru>Сорбитан монолаурат, СПЭН 20</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="494">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan monooleate</en>
+     <ru>Сорбитан моноолеат, СПЭН 80</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="495">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan monopalmitate</en>
+     <ru>Сорбитан монопальмитат, СПЭН 40</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="496">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sorbitan trioleat</en>
+     <ru>Сорбитан триолеат, СПЭН 85</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="497">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Polyoxypropylene-polyoxyethylene polymers</en>
+     <ru>Polyoxypropylene-polyoxyethylene polymers</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="498">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Partial polyglycerol esters of polycondensed fatty acids of castor oil</en>
+     <ru>Partial polyglycerol esters of polycondensed fatty acids of castor oil</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="499">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Cassia gum</en>
+     <ru>Cassia gum</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="500">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="57"/>
+   <name>
+     <en>Sodium carbonates (i) Sodium carbonate (ii) Sodium bicarbonate (Sodium hydrogen carbonate) (iii) Sodium sesquicarbonate (acidity regulator)</en>
+     <ru>Карбонаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="501">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium carbonates (i) Potassium carbonate (ii) Potassium bicarbonate (Potassium hydrogen carbonate)</en>
+     <ru>Карбонаты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="503">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium carbonates (i) Ammonium carbonate (ii) Ammonium bicarbonate (Ammonium hydrogen carbonate)</en>
+     <ru>Карбонаты аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="504">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="58"/>
+   <name>
+     <en>Magnesium carbonates (i) Magnesium carbonate (ii) Magnesium bicarbonate Magnesium hydrogen carbonate</en>
+     <ru>Карбонаты магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="505">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ferrous carbonate</en>
+     <ru>Карбонат железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="507">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="42"/>
+   <name>
+     <en>Hydrochloric acid</en>
+     <ru>Соляная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="508">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="59"/>
+   <name>
+     <en>Potassium chloride</en>
+     <ru>Хлорид калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="509">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Calcium chloride</en>
+     <ru>Хлорид кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="510">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="60"/>
+   <name>
+     <en>Ammonium chloride, ammonia solution</en>
+     <ru>Хлорид аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="511">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Magnesium chloride</en>
+     <ru>Хлорид магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="512">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="36"/>
+   <name>
+     <en>Stannous chloride</en>
+     <ru>Хлорид олова(II)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="513">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="42"/>
+   <name>
+     <en>Sulphuric acid</en>
+     <ru>Серная кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="514">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="42"/>
+   <name>
+     <en>Sodium sulphates (i) Sodium sulphate (ii)</en>
+     <ru>Сульфаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="515">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="61"/>
+   <name>
+     <en>Potassium Sulphates (i) Potassium Sulphate (ii)</en>
+     <ru>Сульфаты калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="516">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Calcium sulphate</en>
+     <ru>Сульфат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="517">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="60"/>
+   <name>
+     <en>Ammonium sulphate</en>
+     <ru>Сульфат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="518">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="62"/>
+   <name>
+     <en>Magnesium sulfate (Epsom salts)</en>
+     <ru>Сульфат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="519">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Copper(II) sulphate</en>
+     <ru>Сульфат меди</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="520">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Aluminium sulphate</en>
+     <ru>Сульфат алюминия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="521">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Aluminium sodium sulphate</en>
+     <ru>Сульфат алюминия-натрия (алюмонатриевые квасцы)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="522">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Aluminium potassium sulphate</en>
+     <ru>Сульфат алюминия-калия (алюмокалиевые квасцы)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="523">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Aluminium ammonium sulphate</en>
+     <ru>Сульфат алюминия-аммония (алюмоаммиачные квасцы)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="524">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Sodium hydroxide</en>
+     <ru>Гидроксид натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="525">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Potassium hydroxide</en>
+     <ru>Гидроксид калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="526">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Calcium hydroxide</en>
+     <ru>Гидроксид кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="527">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Ammonium hydroxide</en>
+     <ru>Гидроксид аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="528">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Magnesium hydroxide</en>
+     <ru>Гидроксид магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="529">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="60"/>
+   <name>
+     <en>Calcium oxide</en>
+     <ru>Оксид кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="530">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="63"/>
+   <name>
+     <en>Magnesium oxide</en>
+     <ru>Оксид магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="535">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="63"/>
+   <name>
+     <en>Sodium ferrocyanide</en>
+     <ru>Ферроцианид натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="536">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Potassium ferrocyanide</en>
+     <ru>Ферроцианид калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="537">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="45"/>
+   <name>
+     <en>Ferrous hexacyanomanganate</en>
+     <ru>Гексацианоманганат железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="538">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Calcium ferrocyanide</en>
+     <ru>Ферроцианид кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="539">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Sodium thiosulphate</en>
+     <ru>Тиосульфат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="540">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Dicalcium diphosphate</en>
+     <ru>Дикальция дифосфат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="541">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Sodium aluminium phosphate (i) Acidic (ii) Basic</en>
+     <ru>Алюмофосфат натрия: (i) кислый, (ii) основной</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="542">
+   <danger value="0"/>
+   <veg value="1"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Bone phosphate (Essentiale Calcium Phosphate, Tribasic)</en>
+     <ru>Фосфат натрия (средняя соль, &quot;Костный фосфат&quot;, фосфат кальция 3-х замещённый)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="543">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Calcium sodium polyphosphate</en>
+     <ru>Полифосфат натрия кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="544">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Calcium polyphosphate</en>
+     <ru>Полифосфат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="545">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Ammonium polyphosphate</en>
+     <ru>Полифосфат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="550">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Sodium Silicates (i) Sodium silicate (ii) Sodium metasilicate</en>
+     <ru>Силикаты натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="551">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Silicon dioxide (Silica)</en>
+     <ru>Диоксид кремния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="552">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Calcium silicate</en>
+     <ru>Силикат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="553a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>(i) Magnesium silicate (ii) Magnesium trisilicate</en>
+     <ru>(i) Силикат магния, (ii) трисиликат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="553b">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Talc</en>
+     <ru>Тальк</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="554">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Sodium aluminosilicate (sodium aluminium silicate)</en>
+     <ru>Алюмосиликат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="555">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Potassium aluminium silicate</en>
+     <ru>Алюмосиликат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="556">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Calcium aluminosilicate (calcium aluminium silicate)</en>
+     <ru>Алюмосиликат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="557">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="45"/>
+   <name>
+     <en>Zinc silicate</en>
+     <ru>Силикат цинка</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="558">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Bentonite</en>
+     <ru>Бентонит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="559">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Aluminium silicate (Kaolin)</en>
+     <ru>Алюмосиликат (каолин)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="560">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Potassium silicate</en>
+     <ru>Силикат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="561">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Vermiculite</en>
+     <ru>Vermiculite</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="562">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Sepiolite</en>
+     <ru>Sepiolite</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="563">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Sepiolitic clay</en>
+     <ru>Sepiolitic clay</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="565">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Lignosulphonates</en>
+     <ru>Lignosulphonates</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="566">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Natrolite-phonolite</en>
+     <ru>Natrolite-phonolite</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="570">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="45"/>
+   <name>
+     <en>Stearic acid (Fatty acid)</en>
+     <ru>Жирные кислоты</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="572">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="64"/>
+   <name>
+     <en>Magnesium stearate, calcium stearate (emulsifier)</en>
+     <ru>Стеарат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="574">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="33"/>
+   <name>
+     <en>Gluconic acid</en>
+     <ru>Глюконовая кислота (D-)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="575">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="47"/>
+   <name>
+     <en>Glucono delta-lactone (acidity regulator)</en>
+     <ru>Глюконо-d-лактон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="576">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="47"/>
+   <name>
+     <en>Sodium gluconate</en>
+     <ru>Глюконат натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="577">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="47"/>
+   <name>
+     <en>Potassium gluconate</en>
+     <ru>Глюконат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="578">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="32"/>
+   <name>
+     <en>Calcium gluconate</en>
+     <ru>Глюконат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="579">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="65"/>
+   <name>
+     <en>Ferrous gluconate</en>
+     <ru>Глюконат железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="580">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Magnesium gluconate</en>
+     <ru>Глюконат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="585">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="65"/>
+   <name>
+     <en>Ferrous lactate</en>
+     <ru>Лактат железа</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="586">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>4-Hexylresorcinol</en>
+     <ru>4-Гексилрезорцин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="598">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Synthetic calcium aluminates</en>
+     <ru>Синтетические алюминаты кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="599">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Perlite</en>
+     <ru>Перлит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="620">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Glutamic acid</en>
+     <ru>Глутаминовая кислота, L(+)-</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="621">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Monosodium glutamate (MSG)</en>
+     <ru>Глутамат натрия однозамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="622">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Monopotassium glutamate</en>
+     <ru>Глутамат калия однозамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="623">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Calcium diglutamate</en>
+     <ru>Диглутамат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="624">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Monoammonium glutamate</en>
+     <ru>Глутамат аммония однозамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="625">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Magnesium diglutamate</en>
+     <ru>Глутамат магния</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="626">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Guanylic acid</en>
+     <ru>Гуаниловая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="627">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Disodium guanylate, sodium guanylate</en>
+     <ru>5&quot;-Гуанилат натрия двузамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="628">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Dipotassium guanylate</en>
+     <ru>5&quot;-Гуанилат калия двузамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="629">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Calcium guanylate</en>
+     <ru>5&quot;-Гуанилат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="630">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Inosinic acid</en>
+     <ru>Инозиновая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="631">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Disodium inosinate</en>
+     <ru>5&quot;-Инозинат натрия двузамещенный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="632">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Dipotassium inosinate</en>
+     <ru>Инозинат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="633">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Calcium inosinate</en>
+     <ru>5’-инозинат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="634">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Calcium 5&apos;-ribonucleotides</en>
+     <ru>5’-рибонуклеотиды кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="635">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Disodium 5&apos;-ribonucleotides</en>
+     <ru>5-рибонуклеотиды натрия двузамещенные</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="636">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Maltol</en>
+     <ru>Мальтол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="637">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Ethyl maltol</en>
+     <ru>Этилмальтол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="640">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Glycine and its sodium salt</en>
+     <ru>Глицин и его соли натрия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="641">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>L-leucine</en>
+     <ru>L-лейцин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="642">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Lysine hydrochloride</en>
+     <ru>Лизин гидрохлорид</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="650">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Zinc acetate</en>
+     <ru>Ацетат цинка</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="700">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="67"/>
+   <name>
+     <en>Bacitracin</en>
+     <ru>Бацитрацин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="701">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Tetracyclines</en>
+     <ru>Тетрациклины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="702">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Chlortetracycline</en>
+     <ru>Chlortetracycline</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="703">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Oxytetracycline</en>
+     <ru>Oxytetracycline</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="704">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Oleandomycin</en>
+     <ru>Oleandomycin</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="705">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Penicillin-G-potassium</en>
+     <ru>Penicillin-G-potassium</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="706">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Penicillin-G-sodium</en>
+     <ru>Penicillin-G-sodium</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="707">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Penicillin-G-procaine</en>
+     <ru>Penicillin-G-procaine</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="708">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Penicillin-G-benzathyne</en>
+     <ru>Penicillin-G-benzathyne</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="710">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Spiramycins</en>
+     <ru>Спирамицины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="711">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Virginiamicins</en>
+     <ru>Вирджинамицины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="712">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Flavophospholipol</en>
+     <ru>Флавофосфолипол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="713">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Tylosin</en>
+     <ru>Тилозин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="714">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Monensin</en>
+     <ru>Монензин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="715">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Avoparcin</en>
+     <ru>Авопарцин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="716">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Salinomycin</en>
+     <ru>Салиномицин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="717">
+   <danger value="-1"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="68"/>
+   <name>
+     <en>Avilamycin</en>
+     <ru>Авиламицин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="900">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="69"/>
+   <name>
+     <en>Dimethyl polysiloxane (anti-foaming agent)</en>
+     <ru>Полидиметилсилоксан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="901">
+   <danger value="0"/>
+   <veg value="1"/>
+   <child value="0"/>
+   <purpose code="70"/>
+   <name>
+     <en>Beeswax , white and yellow</en>
+     <ru>Воск пчелиный, белый и желтый</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="902">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Candelilla wax</en>
+     <ru>Воск свечной</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="903">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Carnauba wax</en>
+     <ru>Воск карнаубский</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="904">
+   <danger value="0"/>
+   <veg value="1"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Shellac</en>
+     <ru>Шеллак</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="905">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Paraffins</en>
+     <ru>Парафины</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="905a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="72"/>
+   <name>
+     <en>Mineral oil</en>
+     <ru>Минеральное масло «пищевое»</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="905b">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="73"/>
+   <name>
+     <en>Petrolatum</en>
+     <ru>Вазелин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="905c">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="74"/>
+   <name>
+     <en>Petroleum wax (i)Microcrystalline wax (ii) Paraffin wax</en>
+     <ru>Парафин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="906">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Gum benzoic</en>
+     <ru>Бензойная смола</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="907">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Crystalline wax</en>
+     <ru>Поли-1-децен гидрогенизированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="908">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Rice bran wax</en>
+     <ru>Воск рисовых отрубей</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="909">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Spermaceti wax</en>
+     <ru>Спермацетовый воск (спермацет)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="910">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Wax esters</en>
+     <ru>Восковые эфиры</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="911">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Methyl esters of fatty acids</en>
+     <ru>Метиловые эфиры жирных кислот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="912">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="71"/>
+   <name>
+     <en>Montan wax</en>
+     <ru>Монтановой (октакозановой) кислоты эфиры</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="913">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Lanolin, sheep wool grease</en>
+     <ru>Ланолин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="914">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="71"/>
+   <name>
+     <en>Oxidized polyethylene wax</en>
+     <ru>Окисленный полиэтиленовый воск</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="915">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="71"/>
+   <name>
+     <en>Esters of colophony</en>
+     <ru>Эфиры канифоли</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="916">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Calcium iodate</en>
+     <ru>Кальция йодат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="917">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Potassium iodate</en>
+     <ru>Калия йодат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="918">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Nitrogen oxides</en>
+     <ru>Оксиды азота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="919">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Nitrosyl chloride</en>
+     <ru>Нитрозил хлорид</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="920">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="75"/>
+   <name>
+     <en>L-cysteine</en>
+     <ru>L-Цистеин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="921">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="75"/>
+   <name>
+     <en>L-cystine</en>
+     <ru>L-Цистин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="922">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="76"/>
+   <name>
+     <en>Potassium persulfate</en>
+     <ru>Персульфат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="923">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="76"/>
+   <name>
+     <en>Ammonium persulfate</en>
+     <ru>Персульфат аммония</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="924">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="76"/>
+   <name>
+     <en>Potassium bromate</en>
+     <ru>Бромат калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="924b">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="76"/>
+   <name>
+     <en>Calcium bromate</en>
+     <ru>Бромат кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="925">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="77"/>
+   <name>
+     <en>Chlorine</en>
+     <ru>Хлор</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="926">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="78"/>
+   <name>
+     <en>Chlorine dioxide (preservative)</en>
+     <ru>Диоксид хлора</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="927a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="76"/>
+   <name>
+     <en>Azodicarbonamide</en>
+     <ru>Азодикарбонамид</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="927b">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="76"/>
+   <name>
+     <en>Carbamide (urea)</en>
+     <ru>Карбамид (мочевина)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="928">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="78"/>
+   <name>
+     <en>Benzoyl peroxide (improving agent)</en>
+     <ru>Пероксид бензоила</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="929">
+   <danger value="1"/>
+   <veg value="0"/>
+   <child value="4"/>
+   <purpose code="44"/>
+   <name>
+     <en>Acetone peroxide</en>
+     <ru>Перекись ацетона</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="930">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="79"/>
+   <name>
+     <en>Calcium peroxide (improving agent)</en>
+     <ru>Пероксид кальция</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="938">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="80"/>
+   <name>
+     <en>Argon</en>
+     <ru>Аргон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="939">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="80"/>
+   <name>
+     <en>Helium</en>
+     <ru>Гелий</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="940">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="81"/>
+   <name>
+     <en>Dichlorodifluoromethane</en>
+     <ru>Дихлордифторметан</ru>
+   </name>
+   <extra>
+     <en>Rarely used</en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="941">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Nitrogen (packaging gas)</en>
+     <ru>Азот</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="942">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Nitrous oxide</en>
+     <ru>Закись азота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="943a">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Butane</en>
+     <ru>Бутан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="943b">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Isobutane</en>
+     <ru>Изобутан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="944">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Propane</en>
+     <ru>Пропан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="945">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Chloropentafluoroethane</en>
+     <ru>Хлопентафторэтан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="946">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="82"/>
+   <name>
+     <en>Octafluorocyclobutane</en>
+     <ru>Октафторциклобутан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="948">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="80"/>
+   <name>
+     <en>Oxygen</en>
+     <ru>Кислород</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="949">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="80"/>
+   <name>
+     <en>Hydrogen</en>
+     <ru>Водород</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="950">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Acesulfame potassium</en>
+     <ru>Ацесульфам калия</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="951">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Aspartame</en>
+     <ru>Аспартам</ru>
+   </name>
+   <extra>
+     <en>Despite safety controversy, a 2007 safety evaluation found that the weight of existing scientific evidence indicates that aspartame is safe at current levels of consumption as a non-nutritive sweetener</en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="952">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Cyclamic acid and its sodium and calcium salts, also known as Cyclamate</en>
+     <ru>Цикламовая кислота и её натриевые, калиевые и кальциевые соли</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="953">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Isomalt, Isomaltitol</en>
+     <ru>Изомальт, изомальтит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="954">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Saccharin and its sodium, potassium and calcium salts</en>
+     <ru>Сахарин и его натриевые, калиевые и кальциевые соли</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="955">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Sucralose (Trichlorogalactosucrose)</en>
+     <ru>Сукралоза (трихлоргалактосахароза)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="956">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Alitame</en>
+     <ru>Алитам</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="957">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Thaumatin (sweetener)</en>
+     <ru>Тауматин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="958">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Glycyrrhizin (sweetener)</en>
+     <ru>Глицирризин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="959">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="66"/>
+   <name>
+     <en>Neohesperidine dihydrochalcone (sweetener)</en>
+     <ru>Неогесперидин дигидрохалкон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="960">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Stevioside</en>
+     <ru>Стевиозид</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="961">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Neotame</en>
+     <ru>Неотам</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="962">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Aspartame-acesulfame salt (sweetener)</en>
+     <ru>Аспартам-ацесульфама соль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="965">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="83"/>
+   <name>
+     <en>Maltitol (i) Maltitol (ii) Maltitol syrup (sweetener) (stabiliser)</en>
+     <ru>Мальтит, мальтитный сироп</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="966">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Lactitol</en>
+     <ru>Лактит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="967">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="53"/>
+   <name>
+     <en>Xylitol</en>
+     <ru>Ксилит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="968">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="84"/>
+   <name>
+     <en>Erythritol</en>
+     <ru>Erythritol</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="999">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="85"/>
+   <name>
+     <en>Quillaia extract</en>
+     <ru>Эритрит</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1000">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Cholic acid</en>
+     <ru>Холевая кислота</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1001">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="37"/>
+   <name>
+     <en>Choline salts</en>
+     <ru>Холин, соли и эфиры</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1100">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="86"/>
+   <name>
+     <en>Amylase</en>
+     <ru>Амилазы</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1101">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="87"/>
+   <name>
+     <en>Proteases ((i)Protease, (ii)Papain, (iii)Bromelain, (iv)Ficin)</en>
+     <ru>Протеазы (i) протеаза (ii) папаин (iii) бромелайн (iv) фицин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1102">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="36"/>
+   <name>
+     <en>Glucose oxidase</en>
+     <ru>Глюкозооксидаза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1103">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="48"/>
+   <name>
+     <en>Invertase</en>
+     <ru>Инвертазы</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1104">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="88"/>
+   <name>
+     <en>Lipases</en>
+     <ru>Липазы</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>С 1.08.2008 не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1105">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="31"/>
+   <name>
+     <en>Lysozyme</en>
+     <ru>Лизоцим</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1200">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="89"/>
+   <name>
+     <en>Polydextrose</en>
+     <ru>Полидекстрозы А и N</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1201">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="90"/>
+   <name>
+     <en>Polyvinylpyrrolidone</en>
+     <ru>Поливинилпирролидон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1202">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="90"/>
+   <name>
+     <en>Polyvinylpolypyrrolidone (carrier)</en>
+     <ru>Поливинилполипирролидон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1203">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="91"/>
+   <name>
+     <en>Polyvinyl alcohol</en>
+     <ru>Поливиниловый спирт</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1204">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="92"/>
+   <name>
+     <en>Pullulan</en>
+     <ru>Пуллулан</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1400">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Dextrin (Dextrins, roasted starch white and yellow) (stabiliser)</en>
+     <ru>Декстрины, крахмал, обработанный термически, белый и желтый</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1401">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Modified starch ((Acid-treated starch) stabiliser)</en>
+     <ru>Крахмал, обработанный кислотой</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1402">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Alkaline modified starch (stabiliser)</en>
+     <ru>Крахмал, обработанный щелочью</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1403">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Bleached starch (stabiliser)</en>
+     <ru>Крахмал отбеленный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1404">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="94"/>
+   <name>
+     <en>Oxidized starch (emulsifier)</en>
+     <ru>Окисленный крахмал</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1405">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="95"/>
+   <name>
+     <en>Enzyme treated starch</en>
+     <ru>Крахмал, обработанный ферментными препаратами</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1410">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="96"/>
+   <name>
+     <en>Monostarch phosphate (stabiliser)</en>
+     <ru>Монокрахмалфосфат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1411">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="97"/>
+   <name>
+     <en>Distarch glycerol (thickening agent)</en>
+     <ru>Дикрахмалглицерин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1412">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Distarch phosphate esterified with sodium trimetasphosphate; esterified with phosphorus oxychloride (stabiliser)</en>
+     <ru>Дикрахмалфосфат этерифицированный тринатрийметафосфатом; этерифицированный хлорокисью фосфора</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1413">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Phosphated distarch phosphate (stabiliser)</en>
+     <ru>Фосфатированный дикрахмалфосфат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1414">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Acetylated distarch phosphate (emulsifier)</en>
+     <ru>Дикрахмалфосфат ацетилированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1420">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Starch acetate esterified with acetic anhydride (stabiliser)</en>
+     <ru>Крахмал ацетатный, этерифицированный уксусным ангидридом</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1421">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Starch acetate esterified with vinyl acetate (stabiliser)</en>
+     <ru>Крахмал ацетатный, этерифицированный винилацетатом</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1422">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Acetylated Distarch Adipate (stabiliser)</en>
+     <ru>Дикрахмаладипат ацетилированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1423">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Acetylated distarch glycerol</en>
+     <ru>Дикрахмалглицерин ацетилированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1430">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Distarch glycerine (stabiliser)</en>
+     <ru>Дикрахмалглицерин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1440">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Hydroxy propyl starch (emulsifier)</en>
+     <ru>Крахмал оксипропилированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1441">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Hydroxy propyl distarch glycerine (stabiliser)</en>
+     <ru>Гидроксипропил крахмала глицерин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1442">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="93"/>
+   <name>
+     <en>Hydroxy propyl distarch phosphate (stabiliser)</en>
+     <ru>Дикрахмалфосфат оксипропилированный «сшитый»</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1443">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="98"/>
+   <name>
+     <en>Hydroxy propyl distarch glycerol</en>
+     <ru>Дикрахмалглицерин оксипропилированный</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1450">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="99"/>
+   <name>
+     <en>Starch sodium octenyl succinate (emulsifier) (stabiliser)</en>
+     <ru>Крахмала и натриевой соли октенилянтарной кислоты эфир</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1451">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="96"/>
+   <name>
+     <en>Acetylated oxidised starch (emulsifier)</en>
+     <ru>Ацетилированный окисленный крахмал</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1501">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Benzylated hydrocarbons</en>
+     <ru>Бензилированный гидрокарбон</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1502">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Butane-1, 3-diol</en>
+     <ru>Бутан-1, 3-диол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1503">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="100"/>
+   <name>
+     <en>Castor oil</en>
+     <ru>Касторовое масло</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1504">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="101"/>
+   <name>
+     <en>Ethyl acetate</en>
+     <ru>Этилацетат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1505">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="102"/>
+   <name>
+     <en>Triethyl citrate</en>
+     <ru>Триэтилцитрат</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1510">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Ethanol</en>
+     <ru>Этанол</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1516">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="101"/>
+   <name>
+     <en>Glyceryl monoacetate</en>
+     <ru>Моноацетат глицерина</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+  <enumber id="1517">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="103"/>
+   <name>
+     <en>Glyceryl diacetate or diacetin</en>
+     <ru>Диацетат глицерина (диацетин)</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1518">
+   <danger value="0"/>
+   <veg value="2"/>
+   <child value="0"/>
+   <purpose code="83"/>
+   <name>
+     <en>Glyceryl triacetate or triacetin</en>
+     <ru>Триацетин</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1519">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="44"/>
+   <name>
+     <en>Benzyl alcohol</en>
+     <ru>Бензиловый спирт</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1520">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="104"/>
+   <name>
+     <en>Propylene glycol</en>
+     <ru>Пропиленгликоль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1521">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="105"/>
+   <name>
+     <en>Polyethylene glycol</en>
+     <ru>Полиэтиленгликоль</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru></ru>
+   </extra>
+  </enumber>
+  <enumber id="1525">
+   <danger value="0"/>
+   <veg value="0"/>
+   <child value="0"/>
+   <purpose code="106"/>
+   <name>
+     <en>Hydroxyethyl cellulose</en>
+     <ru>Гидроксиэтилцеллюлоза</ru>
+   </name>
+   <extra>
+     <en></en>
+     <ru>Не входит в список разрешенных в России</ru>
+   </extra>
+  </enumber>
+</e>

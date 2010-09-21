@@ -1,0 +1,9 @@
+Source code of this application is distributed under GPLv3 license, copy of
+which you can find in gpl.txt file
+
+All information about E numbers were gathered from open sources. Some of
+them, such as those on wikipedia.org, were licensed under CC-BY-SA license. 
+Contents of e.xml file are distributed under CC-BY-SA license.
+
+Icons used in this application are distributed free of charge from 
+http://icons.mysitemyway.com. 

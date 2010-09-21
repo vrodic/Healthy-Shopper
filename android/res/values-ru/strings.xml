@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ This file is distributed under GPL v3 license 
+ http://www.gnu.org/licenses/gpl-3.0.html      
+
+ raven@acute-angle.net                         
+-->
+
+<resources>
+    
+<string name="app_name">E numbers</string>
+
+<string name="doSearch">Искать</string>
+<string name="searchHint">Поиск Е-кода</string>
+<string name="permitted">Безопасная добавка, нет известных побочных эффектов.</string>
+<string name="unpermitted">Может вызывать побочные эффекты, не разрешена в ЕС, тестирование может быть еще не завершено. Избегайте.</string>
+<string name="mostly_safe">Обычно безопасная добавка, может вызывать побочные эффекты у некоторых людей, смотрите дополнительную информацию.</string>
+<string name="dangerous">Вызывает побочные эффекты, может быть опасно для людей с хроническими заболеваниями.</string>
+<string name="unknown">Нет информации о разрешениях или запретах.</string>
+<string name="menu_help">Помощь</string>
+<string name="HelpCaption">Это приложение - справочник по пищевым добавкам, так же известным как <b>E-коды</b>.</string>
+<string name="HelpCaption2">Ниже приведена краткая расшифровка возможных статусов</string>
+<string name="cap_permitted">Безопасно</string>
+<string name="cap_unpermitted">Избегайте</string>
+<string name="cap_forbidden">Обычно безопасно</string>
+<string name="cap_dangerous">Опасно</string>
+<string name="cap_unknown">Нет данных</string>
+
+<string name="vegan">Лист показывает насколько добавка подходит для вегетарианцев</string>
+<string name="child">Фигура ребенка показывает безопасность для детей</string>
+<string name="allerg">Рука показывает безопасность для страдающих аллергией</string>
+<string name="color_hint">Цвет значка меняется от зеленого к красному, в зависимости от степени опасности</string>
+<string name="extra">Есть дополнительная информация. Кликните по добавке, чтобы просмотреть полную информацию</string>
+
+<string name="note">Пожалуйста, всегда проверяйте дополнительную информацию, если такая есть. Некоторые добавки могут быть разрешены и, в общем, безопасны для всех за исключением небольшого числа людей. Но вы можете попадать в это число! Кроме того в дополнительной информации содержатся данные о запретах и разрешениях добавок в отдельных странах, в частности России и Украине. </string>
+
+<string name="vegan2">Эта добавка безопасна для вегетарианцев</string>
+<string name="child2">Эта добавка безопасна для детей</string>
+<string name="allerg2">Эта добавка безопасна для страдающих аллергией</string>
+
+
+<string name="v1">Эта добавка имеет животное происхождение.</string>
+<string name="v2">Эта добавка может быть как животного так и растительного происхождения, избегайте, если не уверены.</string>
+
+<string name="c1">Эта добавка может вызывать синдром дефицита внимания с гиперактивностью.</string>
+<string name="c2">Эта добавка не рекомендуется для детей.</string>
+
+<string name="a1">Может вызывать аллергические реакции.</string>
+
+
+</resources>
