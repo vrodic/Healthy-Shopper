@@ -70,6 +70,21 @@ public class ECodeList extends ArrayList<ECode> {
 	}
 
 	
+	public void filterExact(String[] codes, ECodeList selectedECodes) {
+		selectedECodes.clear();
+		int codeCount = this.size();
+		int userCodeCount = codes.length;		
+		for (int i = 0; i < codeCount; i++) {
+			ECode code = this.get(i);
+			for (int j = 0; j < userCodeCount; j++)
+				if (code.eCode.equals(codes[j])) {
+					selectedECodes.add(code);
+					break;
+				}
+		}
+		selectedECodes.onChanged();
+	}
+	
 	public void filter(String[] codes, ECodeList selectedECodes) {
 		selectedECodes.clear();
 		int codeCount = this.size();

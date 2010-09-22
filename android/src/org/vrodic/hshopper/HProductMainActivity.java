@@ -29,7 +29,7 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 	private EditText searchText;
 	private Button button;
 	private EditText nameText;
-	private ECodeProductAdapter ep;
+	//private ECodeProductAdapter ep;
 	
 	private HShopperDbAdapter mDbHelper;
 	private Cursor mCursor;
@@ -38,6 +38,8 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 	private ECodeList allECodes;
 	private ECodeList selectedECodes;
 	private ECodeAdapter adapter;
+	
+	private boolean searchingCodes = false;
 	
 	private static final int ACTIVITY_ADDNEW=1;
 	public static final int NEW_ID = Menu.FIRST;
@@ -65,11 +67,14 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
             // TODO 
             //mDbHelper.deleteNote(info.id);
             
-            String code = (String)ep.getItem((int)info.id);
-            deleteECode(code);
+            //String code = (String)ep.getItem((int)info.id);
+            //deleteECode(code);
             //System.out.println("DELETE: " + code);
+            ECode code = selectedECodes.get((int)info.id);
+            deleteECode(code.eCode);
+            //System.out.println ("info:" + code.eCode);
             
-            //fillData();
+          
             return true;
         }
         return super.onContextItemSelected(item);
@@ -108,7 +113,7 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 				
 				@Override
 				public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
-					// TODO Auto-generated method stub
+					// TODO Auto-genegetCount()rated method stub
 					System.out.println("actionId" + actionId + " event "+event);
 					return false;
 				}
@@ -157,10 +162,13 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 	protected void onListItemClick(ListView l, View v, int position, long id) {
 		super.onListItemClick(l, v, position, id);
 		
-		ECodeProductAdapter a = (ECodeProductAdapter)l.getAdapter();
-		ECode ecode = allECodes.getEcode(a.getItem(position).toString());
-		
-		viewECodeDetails(ecode);
+		ECode code = selectedECodes.get(position);
+		if (searchingCodes) {			
+			addENumber(code.eCode);
+		} else {
+				viewECodeDetails(code);
+		}
+
 		
 		
 	}
@@ -224,40 +232,35 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 
 	@Override
 	public void onTextChanged(CharSequence s, int start, int before, int count) {
-		//System.out.println("changed text " + searchText.getText().toString().trim());
-		getListView().setVisibility(View.INVISIBLE);
+
+	}
+	
+	private void showECodes (String [] codes) {
+	    
+		adapter = new ECodeAdapter(this, selectedECodes);
 		
-		//findViewById(R.id.list2).setVisibility(View.VISIBLE);		
+	    setListAdapter(adapter);
+	    	        
+	        		  	
+		allECodes.filterExact(codes, selectedECodes);
+	}
+	
+	private void searchECodes (String [] codes) {
+	    
+		adapter = new ECodeAdapter(this, selectedECodes);
+		
+	    setListAdapter(adapter);
+	    	        
+	        		  	
+		allECodes.filter(codes, selectedECodes);
 	}
 	
 	private void searchForECodes() {
 		String text = searchText.getText().toString().trim();
 		String[] codes = text.split(" ");
+		searchECodes(codes);
+		searchingCodes = true;
 
-	    ListView tl = (ListView)findViewById(R.id.list2);
-		adapter = new ECodeAdapter(this, selectedECodes);
-		  if (tl != null) {
-	        	tl.setAdapter(adapter);
-	        	tl.setOnItemClickListener(new OnItemClickListener() {
-	        		@Override
-					public void onItemClick(AdapterView<?> arg0, View arg1,
-							int position, long id) {
-
-						ECode code = selectedECodes.get(position);
-						addENumber(code.eCode);
-						
-						// TODO Auto-generated method stub
-						
-					}
-				});
-	        }
-		
-		  
-				
-
-		
-
-		allECodes.filter(codes, selectedECodes);
 		if (selectedECodes.size() == 1) {
 			String myCode = searchText.getText().toString().trim();
 			addENumber(myCode);
@@ -276,28 +279,28 @@ public class HProductMainActivity  extends ListActivity implements TextWatcher  
 
 	
 	  private void fillData(String productId) {
-	     
+		    String [] codes = mDbHelper.fetchAllAdditivesStrings(productId);
 	    	
-	    	mCursor = mDbHelper.fetchAllAdditives(productId);
-	    	
-	    	
-	        startManagingCursor(mCursor);
+	    	searchingCodes = false;
+	        showECodes(codes);
+	        /*
 
 	        String[] from = new String[] { "enumber" };
 	        int[] to = new int[] { R.id.text1 };
-	        
+	        */
 	        // Now create an array adapter and set it to display using our row
 	        /*SimpleCursorAdapter ingridients =
 	            new SimpleCursorAdapter(this, R.layout.eitem, mCursor, from, to);*/
-			ep = new ECodeProductAdapter(this, allECodes, mCursor);
+			/*
+	        ep = new ECodeProductAdapter(this, allECodes, mCursor);
 		
 	        
 	        ListView tl = (ListView)findViewById(R.id.list2);
 	        this.setListAdapter(ep);
-	        	        
+	        	*/        
 				   
 	        
-	        if (mCursor.getCount() > 0 ) {
+	        if (codes.length > 0 ) {
 	        	findViewById(R.id.empty).setVisibility(View.INVISIBLE);
 	        	
 	        }

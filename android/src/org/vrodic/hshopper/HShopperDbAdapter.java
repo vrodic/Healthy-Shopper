@@ -96,6 +96,22 @@ private static final String DATABASE_CREATE2 =
         return mDb.rawQuery("select _id, enumber FROM ProductsEnumbers WHERE barcode='" +productId + "'",null);
     }
 
+    public String [] fetchAllAdditivesStrings(String productId) {
+    	Cursor c = mDb.rawQuery("select _id, enumber FROM ProductsEnumbers WHERE barcode='" +productId + "'",null);
+    	String [] ret = new String[c.getCount()];
+    	
+    	c.moveToFirst();
+  	  int i =0;
+        while (c.isAfterLast() == false)         
+        {
+        	
+        	ret[i] = c.getString(1);
+        	i++;
+        	c.moveToNext();
+        }
+        return ret;
+    }
+    
     public boolean addENumber (String productId, String eNumber) {
     	String sql = "select count(*) FROM ProductsENumbers WHERE barcode='" + 
 		productId + "' AND enumber='" + eNumber + "'";
@@ -117,14 +133,19 @@ if (Integer.parseInt(c.getString(0)) == 0) {
       	if(c2.getCount() > 0) {
       		// TODO wrap time fix
       		c2.moveToFirst();
-      		return c2.getString(0);
+      		String ret = c2.getString(0);
+      		c2.close();
+      		return ret;
       	}
+      	c2.close();
       	return "";
     }
       	
     public void deleteECodeFromProduct(String productId, String code) {
-    	mDb.execSQL("DELETE FROM ProductsENumbers WHERE barcode='"+productId+"'  AND enumber ='" + 
-				code + "'");
+    	String sql = "DELETE FROM ProductsENumbers WHERE barcode='"+productId+"'  AND enumber ='" + 
+		code + "'";
+    	System.out.println(sql);
+    	mDb.execSQL(sql);
     }
     
 public void insertOrUpdateProduct(String productId, String name) {
