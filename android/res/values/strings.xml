@@ -50,6 +50,7 @@
 <string name="add_enumber">Add enumber to product</string>
 <string name="allenumbers">All E Numbers</string>
 <string name="productname">Product Name</string>
-<string name="saveproduct">Save</string>
+<string name="saveproduct">Next</string>
 <string name="delete">Delete</string>
+<string name="manualbarcode">Manual barcode entry</string>
 </resources>
