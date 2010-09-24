@@ -1,5 +1,5 @@
 CREATE TABLE Products (
-  id  varchar(100) PRIMARY KEY,
+  _id  varchar(100) PRIMARY KEY,
   countrycodeorigin varchar(3),
   countrycodebarcode varchar(3),
   name	varchar(200),
@@ -8,7 +8,7 @@ CREATE TABLE Products (
 );
 
 CREATE TABLE Enumbers ( 
-    id varchar(5) PRIMARY KEY,
+    _id varchar(5) PRIMARY KEY,
     name varchar (255),
     safety int,
     alergy int,

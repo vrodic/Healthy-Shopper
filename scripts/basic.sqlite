@@ -1,14 +1,16 @@
 CREATE TABLE Products (
-  id  varchar(100) PRIMARY KEY,
+  _id  varchar(100) PRIMARY KEY,
   countrycodeorigin varchar(3),
   countrycodebarcode varchar(3),
+  categoryid int,
+  genericnameid int,
   name	varchar(200),
-  verified int,
+  verified int DEFAULT '-1',
   updated date
 );
 
 CREATE TABLE Enumbers ( 
-    id varchar(5) PRIMARY KEY,
+    _id varchar(5) PRIMARY KEY,
     name varchar (255),
     safety int,
     alergy int,
@@ -20,6 +22,7 @@ CREATE TABLE Enumbers (
 );
 
 CREATE TABLE ProductsEnumbers (
+    _id    INTEGER PRIMARY KEY,
     barcode varchar (100),
     enumber varchar(4)
 );

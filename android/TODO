@@ -1,0 +1,12 @@
+- new product main screen:
+    - editable name
+    - categories
+    - button "Additives" that changes color according to status
+    - figure out other details
+    
+- login system
+- sync system
+- new db data migration system (scripts to import data from old database for
+ start, check how alter works)
+
+- vibrate on entry (or Toast message)

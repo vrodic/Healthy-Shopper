@@ -53,4 +53,7 @@
 <string name="saveproduct">Next</string>
 <string name="delete">Delete</string>
 <string name="manualbarcode">Manual barcode entry</string>
+
+<string name="exportdbsd">Export data to SD</string>
+<string name="exportdbxmlsd">Export XML data to SD</string>
 </resources>

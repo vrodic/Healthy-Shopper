@@ -7,69 +7,66 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-
 public class HShopperDbAdapter {
 	private DatabaseHelper mDbHelper;
 	private SQLiteDatabase mDb;
-	private static String DB_NAME = "hshopper";
-	   private static final String TAG = "HShopperDbAdapter";
-    
+	public static final String TAG = "HShopperDbAdapter";
+
 	private final Context mCtx;
-	private static final String DATABASE_CREATE1 = 
-	"CREATE TABLE Products ("
-			  + "_id  varchar(100) PRIMARY KEY,"
-			  + "countrycodeorigin varchar(3),"
-			  + "countrycodebarcode varchar(3),"
-			  + "name  varchar(200),"
-			  + "verified int,"
-			  + "updated date"
+	private static final String DATABASE_CREATE1 = "CREATE TABLE Products ("
+			+ "_id  varchar(100) PRIMARY KEY,"
+			+ "countrycodeorigin varchar(3),"
+			+ "countrycodebarcode varchar(3),"
+			/*+ "categoryid int,"
+			+ "genericnameid int,"*/
+			+ "name  varchar(200),"
+			+ "verified int DEFAULT '-1'," 
+			+ "updated date" 
 			+ ");";
-private static final String DATABASE_CREATE2 = 		
-			 "CREATE TABLE ProductsEnumbers (" 
-	+ "_id    INTEGER PRIMARY KEY,"	
-    + "barcode varchar (100) References Products,"
-    + "enumber varchar(4) References Enumbers"
-+ ");";
-			
+	private static final String DATABASE_CREATE2 = "CREATE TABLE ProductsEnumbers ("
+			+ "_id    INTEGER PRIMARY KEY,"
+			+ "barcode varchar (100) References Products,"
+			+ "enumber varchar(4) References Enumbers" + ");";
 
-
-
- private static final String DATABASE_NAME = "hshopper";
-  private static final int DATABASE_VERSION = 2;
-
-
- private static class DatabaseHelper extends SQLiteOpenHelper {
-
-     DatabaseHelper(Context context) {
-         super(context, DATABASE_NAME, null, DATABASE_VERSION);
-     }
-
-     @Override
-     public void onCreate(SQLiteDatabase db) {
-
-         db.execSQL(DATABASE_CREATE1);
-         db.execSQL(DATABASE_CREATE2);
-     }
-
-     @Override
-     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-         Log.w(TAG , "Upgrading database from version " + oldVersion + " to "
-                 + newVersion + ", which will destroy all old data");
-         db.execSQL("DROP TABLE IF EXISTS Products");
-         db.execSQL("DROP TABLE IF EXISTS ProductsEnumbers");
-         onCreate(db);
-     }
- }
 	
-	   /**
-     * Constructor - takes the context to allow the database to be
-     * opened/created
-     * 
-     * @param ctx the Context within which to work
-     */
-    public HShopperDbAdapter (Context ctx) {
-        this.mCtx = ctx;
-    }
+
+
+	private static final String DATABASE_NAME = "hshopper";
+	private static final int DATABASE_VERSION = 2;
+
+	private static class DatabaseHelper extends SQLiteOpenHelper {
+
+		DatabaseHelper(Context context) {
+			super(context, DATABASE_NAME, null, DATABASE_VERSION);
+		}
+
+		@Override
+		public void onCreate(SQLiteDatabase db) {
+
+			db.execSQL(DATABASE_CREATE1);
+			db.execSQL(DATABASE_CREATE2);
+		}
+
+		@Override
+		public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+			Log.w(TAG, "Upgrading database from version " + oldVersion + " to "
+					+ newVersion + ", which will destroy all old data");
+			db.execSQL("DROP TABLE IF EXISTS Products");
+			db.execSQL("DROP TABLE IF EXISTS ProductsEnumbers");
+			onCreate(db);
+		}
+	}
+
+	/**
+	 * Constructor - takes the context to allow the database to be
+	 * opened/created
+	 * 
+	 * @param ctx
+	 *            the Context within which to work
+	 */
+	public HShopperDbAdapter(Context ctx) {
+		this.mCtx = ctx;
+	}
 
 	/**
 	 * Open the notes database. If it cannot be opened, try to create a new
@@ -82,95 +79,99 @@ private static final String DATABASE_CREATE2 =
 	 *             if the database could be neither opened or created
 	 */
 	public HShopperDbAdapter open() throws SQLException {
-		 mDbHelper = new DatabaseHelper(mCtx);
-	        mDb = mDbHelper.getWritableDatabase();
-	        return this;
+		mDbHelper = new DatabaseHelper(mCtx);
+		mDb = mDbHelper.getWritableDatabase();
+		return this;
 	}
 
+	public SQLiteDatabase getDb() {
+		return mDb;
+	}
+	
 	public void close() {
 		mDbHelper.close();
 	}
 
-    public Cursor fetchAllAdditives(String productId) {
+	public Cursor fetchAllAdditives(String productId) {
 
-        return mDb.rawQuery("select _id, enumber FROM ProductsEnumbers WHERE barcode='" +productId + "'",null);
-    }
+		return mDb.rawQuery(
+				"select _id, enumber FROM ProductsEnumbers WHERE barcode='"
+						+ productId + "'", null);
+	}
 
-    public String [] fetchAllAdditivesStrings(String productId) {
-    	Cursor c = mDb.rawQuery("select _id, enumber FROM ProductsEnumbers WHERE barcode='" +productId + "'",null);
-    	String [] ret = new String[c.getCount()];
-    	
-    	c.moveToFirst();
-  	  int i =0;
-        while (c.isAfterLast() == false)         
-        {
-        	
-        	ret[i] = c.getString(1);
-        	i++;
-        	c.moveToNext();
-        }
-        return ret;
-    }
-    
-    public boolean addENumber (String productId, String eNumber) {
-    	String sql = "select count(*) FROM ProductsENumbers WHERE barcode='" + 
-		productId + "' AND enumber='" + eNumber + "'";
-//	System.out.println(sql);
-    	Cursor c = mDb.rawQuery(sql, null);
-c.moveToFirst();
-if (Integer.parseInt(c.getString(0)) == 0) {
-    	mDb.execSQL("INSERT INTO ProductsENumbers VALUES(NULL,'" + 
-			productId + "','" + eNumber + "')");
-    	return true;
-}
-	return false;
-    }
-    
-    public String getProductName (String productId) {
-    
-    String sql = "SELECT name FROM Products WHERE _id='" + productId + "'";
-     	Cursor c2 = mDb.rawQuery(sql, null);
-      	if(c2.getCount() > 0) {
-      		// TODO wrap time fix
-      		c2.moveToFirst();
-      		String ret = c2.getString(0);
-      		c2.close();
-      		return ret;
-      	}
-      	c2.close();
-      	return "";
-    }
-      	
-    public void deleteECodeFromProduct(String productId, String code) {
-    	String sql = "DELETE FROM ProductsENumbers WHERE barcode='"+productId+"'  AND enumber ='" + 
-		code + "'";
-    	System.out.println(sql);
-    	mDb.execSQL(sql);
-    }
-    
-public void insertOrUpdateProduct(String productId, String name) {
-    	
-    	String sql = "select count(*) FROM Products WHERE _id='" + 
-    				productId + "'";
-    //	System.out.println(sql);
-    	Cursor c = mDb.rawQuery(sql, null);
-    	c.moveToFirst();
-    	if (Integer.parseInt(c.getString(0)) > 0) {
-    		//System.out.println("Update Selections");
-    		mDb.execSQL("UPDATE Products SET name='"+name+"' WHERE _id='" + 
-    				productId + "'");
-    	} else {
-    		
-    		//System.out.println("Insert Selections");
-    		mDb.execSQL("INSERT INTO Products (_id,name) VALUES('"+ productId+ 
-    				 "','" + name + "')");
-    	}
-    	c.close();
-    }
+	public String[] fetchAllAdditivesStrings(String productId) {
+		Cursor c = mDb.rawQuery(
+				"select _id, enumber FROM ProductsEnumbers WHERE barcode='"
+						+ productId + "'", null);
+		String[] ret = new String[c.getCount()];
 
+		c.moveToFirst();
+		int i = 0;
+		while (c.isAfterLast() == false) {
 
-    
-        
+			ret[i] = c.getString(1);
+			i++;
+			c.moveToNext();
+		}
+		return ret;
+	}
 
+	public boolean addENumber(String productId, String eNumber) {
+		String sql = "select count(*) FROM ProductsENumbers WHERE barcode='"
+				+ productId + "' AND enumber='" + eNumber + "'";
+		// System.out.println(sql);
+		Cursor c = mDb.rawQuery(sql, null);
+		c.moveToFirst();
+		if (Integer.parseInt(c.getString(0)) == 0) {
+			mDb.execSQL("INSERT INTO ProductsENumbers VALUES(NULL,'"
+					+ productId + "','" + eNumber + "')");
+			return true;
+		}
+		return false;
+	}
+
+	public String getProductName(String productId) {
+
+		String sql = "SELECT name FROM Products WHERE _id='" + productId + "'";
+		Cursor c2 = mDb.rawQuery(sql, null);
+		if (c2.getCount() > 0) {
+			// TODO wrap time fix
+			c2.moveToFirst();
+			String ret = c2.getString(0);
+			c2.close();
+			return ret;
+		}
+		c2.close();
+		return "";
+	}
+
+	public void deleteECodeFromProduct(String productId, String code) {
+		String sql = "DELETE FROM ProductsENumbers WHERE barcode='" + productId
+				+ "'  AND enumber ='" + code + "'";
+		System.out.println(sql);
+		mDb.execSQL(sql);
+	}
+
+	public void insertOrUpdateProduct(String productId, String name) {
+
+		String sql = "select count(*) FROM Products WHERE _id='" + productId
+				+ "'";
+		// System.out.println(sql);
+		Cursor c = mDb.rawQuery(sql, null);
+		c.moveToFirst();
+		if (Integer.parseInt(c.getString(0)) > 0) {
+			// System.out.println("Update Selections");
+			mDb.execSQL("UPDATE Products SET name='" + name + "' WHERE _id='"
+					+ productId + "'");
+		} else {
+
+			// System.out.println("Insert Selections");
+			mDb.execSQL("INSERT INTO Products (_id,name) VALUES('" + productId
+					+ "','" + name + "')");
+		}
+		c.close();
+	}
+	
+	
 
 }
